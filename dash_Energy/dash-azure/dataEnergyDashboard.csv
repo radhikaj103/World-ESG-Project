@@ -1,0 +1,1426 @@
+,Country_Name,Country_Code,Year,Indicator_Name,Value
+0,Kuwait,KWT,1990,Total Energy Use,4347.33958527215
+1,Netherlands,NLD,1990,Total Energy Use,4394.54208972873
+2,Czech Republic,CZE,1990,Total Energy Use,4796.94145802598
+3,Belgium,BEL,1990,Total Energy Use,4809.86726801499
+4,Palau,PLW,1990,Total Energy Use,4877.02821483104
+5,Trinidad and Tobago,TTO,1990,Total Energy Use,4903.13244960983
+6,Norway,NOR,1990,Total Energy Use,4966.8935768305
+7,Australia,AUS,1990,Total Energy Use,5061.5084587843
+8,Sweden,SWE,1990,Total Energy Use,5514.55753031809
+9,Finland,FIN,1990,Total Energy Use,5691.57118588425
+10,Russian Federation,RUS,1990,Total Energy Use,5941.58625640772
+11,Brunei Darussalam,BRN,1990,Total Energy Use,6674.89196564546
+12,Canada,CAN,1990,Total Energy Use,7630.09230606557
+13,United States,USA,1990,Total Energy Use,7671.7730657832
+14,Luxembourg,LUX,1990,Total Energy Use,8874.10501505827
+15,Iceland,ISL,1990,Total Energy Use,8907.79198354956
+16,Bahrain,BHR,1990,Total Energy Use,10555.3559294009
+17,United Arab Emirates,ARE,1990,Total Energy Use,11170.2328272727
+18,Qatar,QAT,1990,Total Energy Use,13703.1756863157
+19,Kuwait,KWT,1991,Total Energy Use,1325.06570924882
+20,Czech Republic,CZE,1991,Total Energy Use,4349.23623801459
+21,Netherlands,NLD,1991,Total Energy Use,4603.73317545464
+22,Trinidad and Tobago,TTO,1991,Total Energy Use,4841.41670219379
+23,Australia,AUS,1991,Total Energy Use,4927.78158990974
+24,Belgium,BEL,1991,Total Energy Use,5006.00470628876
+25,Norway,NOR,1991,Total Energy Use,5105.10820483315
+26,Sweden,SWE,1991,Total Energy Use,5650.54137715952
+27,Finland,FIN,1991,Total Energy Use,5742.78422893888
+28,Russian Federation,RUS,1991,Total Energy Use,5870.23385736274
+29,Brunei Darussalam,BRN,1991,Total Energy Use,7335.32050126217
+30,Canada,CAN,1991,Total Energy Use,7517.33030357287
+31,United States,USA,1991,Total Energy Use,7631.46780588265
+32,Iceland,ISL,1991,Total Energy Use,8054.3567225375
+33,Luxembourg,LUX,1991,Total Energy Use,9353.42118863049
+34,Bahrain,BHR,1991,Total Energy Use,10108.4133379891
+35,United Arab Emirates,ARE,1991,Total Energy Use,12124.9117909268
+36,Qatar,QAT,1991,Total Energy Use,14818.4563992498
+37,Palau,PLW,1991,Total Energy Use,
+38,Czech Republic,CZE,1992,Total Energy Use,4222.41657551713
+39,Netherlands,NLD,1992,Total Energy Use,4502.54008023885
+40,Australia,AUS,1992,Total Energy Use,4959.21491854816
+41,Belgium,BEL,1992,Total Energy Use,5040.67044042513
+42,Norway,NOR,1992,Total Energy Use,5159.64861896962
+43,Trinidad and Tobago,TTO,1992,Total Energy Use,5289.71079943559
+44,Russian Federation,RUS,1992,Total Energy Use,5356.50974005023
+45,Sweden,SWE,1992,Total Energy Use,5369.37035673582
+46,Finland,FIN,1992,Total Energy Use,5380.99306781923
+47,Canada,CAN,1992,Total Energy Use,7601.68517694524
+48,Brunei Darussalam,BRN,1992,Total Energy Use,7666.16281107606
+49,United States,USA,1992,Total Energy Use,7677.40140109312
+50,Iceland,ISL,1992,Total Energy Use,7755.39441577893
+51,Luxembourg,LUX,1992,Total Energy Use,9262.08197870848
+52,Bahrain,BHR,1992,Total Energy Use,10837.8303975285
+53,United Arab Emirates,ARE,1992,Total Energy Use,10890.4623331378
+54,Qatar,QAT,1992,Total Energy Use,15242.9537164692
+55,Kuwait,KWT,1992,Total Energy Use,
+56,Palau,PLW,1992,Total Energy Use,
+57,Czech Republic,CZE,1993,Total Energy Use,4089.40851541479
+58,Netherlands,NLD,1993,Total Energy Use,4510.5821521104
+59,Belgium,BEL,1993,Total Energy Use,4902.26997439133
+60,Trinidad and Tobago,TTO,1993,Total Energy Use,5034.23997169519
+61,Russian Federation,RUS,1993,Total Energy Use,5059.864624912
+62,Australia,AUS,1993,Total Energy Use,5147.53665025188
+63,Sweden,SWE,1993,Total Energy Use,5334.16649834761
+64,Norway,NOR,1993,Total Energy Use,5459.62340830489
+65,Finland,FIN,1993,Total Energy Use,5617.21537795619
+66,Brunei Darussalam,BRN,1993,Total Energy Use,7175.54067678675
+67,United States,USA,1993,Total Energy Use,7709.49658932206
+68,Canada,CAN,1993,Total Energy Use,7770.54644758451
+69,Iceland,ISL,1993,Total Energy Use,8249.53644895251
+70,Luxembourg,LUX,1993,Total Energy Use,9266.94257500472
+71,United Arab Emirates,ARE,1993,Total Energy Use,10820.1137987286
+72,Bahrain,BHR,1993,Total Energy Use,11142.3821175207
+73,Qatar,QAT,1993,Total Energy Use,15624.7081134006
+74,Kuwait,KWT,1993,Total Energy Use,
+75,Palau,PLW,1993,Total Energy Use,
+76,Czech Republic,CZE,1994,Total Energy Use,3963.3140941282
+77,Russian Federation,RUS,1994,Total Energy Use,4426.66819542613
+78,Netherlands,NLD,1994,Total Energy Use,4511.79496267204
+79,Trinidad and Tobago,TTO,1994,Total Energy Use,5039.53576033171
+80,Australia,AUS,1994,Total Energy Use,5089.788966676
+81,Belgium,BEL,1994,Total Energy Use,5186.18662673891
+82,Norway,NOR,1994,Total Energy Use,5315.24486967133
+83,Sweden,SWE,1994,Total Energy Use,5660.27142343844
+84,Finland,FIN,1994,Total Energy Use,5972.55427268616
+85,Brunei Darussalam,BRN,1994,Total Energy Use,6479.12952752097
+86,United States,USA,1994,Total Energy Use,7757.83082249569
+87,Canada,CAN,1994,Total Energy Use,7957.24563262571
+88,Iceland,ISL,1994,Total Energy Use,8293.41292604719
+89,Luxembourg,LUX,1994,Total Energy Use,8823.25246633989
+90,United Arab Emirates,ARE,1994,Total Energy Use,11355.4642502082
+91,Bahrain,BHR,1994,Total Energy Use,11555.4940955985
+92,Qatar,QAT,1994,Total Energy Use,15511.060184126
+93,Kuwait,KWT,1994,Total Energy Use,
+94,Palau,PLW,1994,Total Energy Use,
+95,Czech Republic,CZE,1995,Total Energy Use,4019.8048793808
+96,Russian Federation,RUS,1995,Total Energy Use,4290.69346739168
+97,Netherlands,NLD,1995,Total Energy Use,4780.41259573869
+98,Trinidad and Tobago,TTO,1995,Total Energy Use,4903.03380641046
+99,Australia,AUS,1995,Total Energy Use,5129.22366091191
+100,Belgium,BEL,1995,Total Energy Use,5267.67067078591
+101,Norway,NOR,1995,Total Energy Use,5391.41408116749
+102,Finland,FIN,1995,Total Energy Use,5661.9038762361
+103,Sweden,SWE,1995,Total Energy Use,5702.16504271753
+104,Brunei Darussalam,BRN,1995,Total Energy Use,7562.82142760979
+105,Luxembourg,LUX,1995,Total Energy Use,7705.40715815234
+106,United States,USA,1995,Total Energy Use,7763.75510556636
+107,Canada,CAN,1995,Total Energy Use,7979.89844555264
+108,Iceland,ISL,1995,Total Energy Use,8255.76891441219
+109,Kuwait,KWT,1995,Total Energy Use,9210.97921610654
+110,Bahrain,BHR,1995,Total Energy Use,11408.539679048
+111,United Arab Emirates,ARE,1995,Total Energy Use,11463.1826687022
+112,Qatar,QAT,1995,Total Energy Use,15871.0869865828
+113,Palau,PLW,1995,Total Energy Use,
+114,Czech Republic,CZE,1996,Total Energy Use,4152.93825902856
+115,Russian Federation,RUS,1996,Total Energy Use,4252.61161860894
+116,Netherlands,NLD,1996,Total Energy Use,5014.98883036462
+117,Norway,NOR,1996,Total Energy Use,5202.04727507774
+118,Australia,AUS,1996,Total Energy Use,5393.58063459123
+119,Belgium,BEL,1996,Total Energy Use,5536.47127489148
+120,Trinidad and Tobago,TTO,1996,Total Energy Use,5783.01725502108
+121,Sweden,SWE,1996,Total Energy Use,5825.09791315415
+122,Finland,FIN,1996,Total Energy Use,6070.21209376859
+123,Brunei Darussalam,BRN,1996,Total Energy Use,7425.4612303854
+124,Luxembourg,LUX,1996,Total Energy Use,7711.17870722433
+125,United States,USA,1996,Total Energy Use,7844.46826581141
+126,Canada,CAN,1996,Total Energy Use,8053.45485804934
+127,Iceland,ISL,1996,Total Energy Use,8847.78518198992
+128,Kuwait,KWT,1996,Total Energy Use,8941.8929003023
+129,Bahrain,BHR,1996,Total Energy Use,11109.805222747
+130,United Arab Emirates,ARE,1996,Total Energy Use,11511.8050695497
+131,Qatar,QAT,1996,Total Energy Use,16547.8794559557
+132,Palau,PLW,1996,Total Energy Use,
+133,Russian Federation,RUS,1997,Total Energy Use,4069.68729231577
+134,Czech Republic,CZE,1997,Total Energy Use,4184.88468362834
+135,Netherlands,NLD,1997,Total Energy Use,4835.74194540266
+136,Trinidad and Tobago,TTO,1997,Total Energy Use,5441.53454650519
+137,Australia,AUS,1997,Total Energy Use,5469.59998919911
+138,Norway,NOR,1997,Total Energy Use,5475.18873901657
+139,Belgium,BEL,1997,Total Energy Use,5523.45916437528
+140,Sweden,SWE,1997,Total Energy Use,5672.00817719794
+141,Finland,FIN,1997,Total Energy Use,6276.95169202902
+142,Luxembourg,LUX,1997,Total Energy Use,7409.85099535105
+143,Brunei Darussalam,BRN,1997,Total Energy Use,7488.42487226008
+144,United States,USA,1997,Total Energy Use,7828.58109639584
+145,Canada,CAN,1997,Total Energy Use,8056.24362752186
+146,Iceland,ISL,1997,Total Energy Use,8584.10049865746
+147,Kuwait,KWT,1997,Total Energy Use,8592.11042550915
+148,United Arab Emirates,ARE,1997,Total Energy Use,11558.5557324525
+149,Bahrain,BHR,1997,Total Energy Use,12181.2827456142
+150,Qatar,QAT,1997,Total Energy Use,19006.441007248
+151,Palau,PLW,1997,Total Energy Use,
+152,Russian Federation,RUS,1998,Total Energy Use,3981.4994684392
+153,Czech Republic,CZE,1998,Total Energy Use,4057.40582743602
+154,Netherlands,NLD,1998,Total Energy Use,4842.44393768492
+155,Australia,AUS,1998,Total Energy Use,5553.65346587569
+156,Belgium,BEL,1998,Total Energy Use,5603.16026411035
+157,Norway,NOR,1998,Total Energy Use,5684.78859356637
+158,Sweden,SWE,1998,Total Energy Use,5769.69506406865
+159,Trinidad and Tobago,TTO,1998,Total Energy Use,6308.99445905878
+160,Finland,FIN,1998,Total Energy Use,6319.32660107756
+161,Luxembourg,LUX,1998,Total Energy Use,7066.88485990111
+162,Brunei Darussalam,BRN,1998,Total Energy Use,7289.24123020038
+163,United States,USA,1998,Total Energy Use,7803.69760452993
+164,Canada,CAN,1998,Total Energy Use,7948.39727830446
+165,Iceland,ISL,1998,Total Energy Use,9036.65429652578
+166,Kuwait,KWT,1998,Total Energy Use,9168.63385871278
+167,United Arab Emirates,ARE,1998,Total Energy Use,11223.9598551692
+168,Bahrain,BHR,1998,Total Energy Use,12406.8115047002
+169,Qatar,QAT,1998,Total Energy Use,19348.547589953
+170,Palau,PLW,1998,Total Energy Use,
+171,Czech Republic,CZE,1999,Total Energy Use,3782.88920697092
+172,Russian Federation,RUS,1999,Total Energy Use,4136.75114378464
+173,Netherlands,NLD,1999,Total Energy Use,4730.22968250619
+174,Australia,AUS,1999,Total Energy Use,5610.34471097961
+175,Belgium,BEL,1999,Total Energy Use,5612.71467558683
+176,Sweden,SWE,1999,Total Energy Use,5661.49145946307
+177,Norway,NOR,1999,Total Energy Use,5913.30220916454
+178,Finland,FIN,1999,Total Energy Use,6283.95825823535
+179,Luxembourg,LUX,1999,Total Energy Use,7266.97253034439
+180,Brunei Darussalam,BRN,1999,Total Energy Use,7270.94483989038
+181,Trinidad and Tobago,TTO,1999,Total Energy Use,7353.47531938158
+182,United States,USA,1999,Total Energy Use,7923.22389263188
+183,Canada,CAN,1999,Total Energy Use,8107.51515577335
+184,Kuwait,KWT,1999,Total Energy Use,9232.40122932382
+185,Iceland,ISL,1999,Total Energy Use,10038.3119247533
+186,United Arab Emirates,ARE,1999,Total Energy Use,10870.4655281523
+187,Bahrain,BHR,1999,Total Energy Use,11851.6196939705
+188,Qatar,QAT,1999,Total Energy Use,19839.0109485597
+189,Palau,PLW,1999,Total Energy Use,
+190,Czech Republic,CZE,2000,Total Energy Use,3988.03849376645
+191,Russian Federation,RUS,2000,Total Energy Use,4224.27719789841
+192,Netherlands,NLD,2000,Total Energy Use,4739.06592522326
+193,Sweden,SWE,2000,Total Energy Use,5360.14514699943
+194,Australia,AUS,2000,Total Energy Use,5644.06495066047
+195,Belgium,BEL,2000,Total Energy Use,5669.35817583222
+196,Norway,NOR,2000,Total Energy Use,5826.07776899719
+197,Finland,FIN,2000,Total Energy Use,6262.19207918382
+198,Brunei Darussalam,BRN,2000,Total Energy Use,7157.11086965657
+199,Luxembourg,LUX,2000,Total Energy Use,7676.83703873481
+200,Trinidad and Tobago,TTO,2000,Total Energy Use,7764.80536380991
+201,United States,USA,2000,Total Energy Use,8056.86384994775
+202,Canada,CAN,2000,Total Energy Use,8265.07992477285
+203,Kuwait,KWT,2000,Total Energy Use,9151.98058992051
+204,United Arab Emirates,ARE,2000,Total Energy Use,10057.9189915212
+205,Iceland,ISL,2000,Total Energy Use,11091.5488700414
+206,Bahrain,BHR,2000,Total Energy Use,11988.7934277245
+207,Qatar,QAT,2000,Total Energy Use,18431.9261663519
+208,Palau,PLW,2000,Total Energy Use,
+209,Czech Republic,CZE,2001,Total Energy Use,4111.15248167077
+210,Russian Federation,RUS,2001,Total Energy Use,4288.38263138853
+211,Netherlands,NLD,2001,Total Energy Use,4839.46553011371
+212,Australia,AUS,2001,Total Energy Use,5446.97321382579
+213,Belgium,BEL,2001,Total Energy Use,5634.21548679492
+214,Sweden,SWE,2001,Total Energy Use,5680.28048687269
+215,Norway,NOR,2001,Total Energy Use,5954.04177146679
+216,Finland,FIN,2001,Total Energy Use,6410.62523419393
+217,Brunei Darussalam,BRN,2001,Total Energy Use,6492.66697447631
+218,United States,USA,2001,Total Energy Use,7827.88632537183
+219,Luxembourg,LUX,2001,Total Energy Use,7982.8503482249
+220,Canada,CAN,2001,Total Energy Use,8056.3494253004
+221,Trinidad and Tobago,TTO,2001,Total Energy Use,8640.87660925727
+222,Kuwait,KWT,2001,Total Energy Use,9497.47417477427
+223,Iceland,ISL,2001,Total Energy Use,10589.466185677
+224,Bahrain,BHR,2001,Total Energy Use,11738.129166368
+225,United Arab Emirates,ARE,2001,Total Energy Use,12172.4129369653
+226,Qatar,QAT,2001,Total Energy Use,19621.8405139404
+227,Palau,PLW,2001,Total Energy Use,
+228,Czech Republic,CZE,2002,Total Energy Use,4163.45010589476
+229,Russian Federation,RUS,2002,Total Energy Use,4288.19385137335
+230,Netherlands,NLD,2002,Total Energy Use,4873.26162620444
+231,Belgium,BEL,2002,Total Energy Use,5390.71973335359
+232,Norway,NOR,2002,Total Energy Use,5501.11774400148
+233,Australia,AUS,2002,Total Energy Use,5569.64099249926
+234,Sweden,SWE,2002,Total Energy Use,5802.110105168
+235,Brunei Darussalam,BRN,2002,Total Energy Use,6221.24881407936
+236,Finland,FIN,2002,Total Energy Use,6728.58140544607
+237,United States,USA,2002,Total Energy Use,7843.34484914192
+238,Canada,CAN,2002,Total Energy Use,7993.87938404109
+239,Luxembourg,LUX,2002,Total Energy Use,8204.72684484788
+240,Trinidad and Tobago,TTO,2002,Total Energy Use,9361.39632480172
+241,Kuwait,KWT,2002,Total Energy Use,9612.8570499361
+242,Iceland,ISL,2002,Total Energy Use,10804.6417156193
+243,United Arab Emirates,ARE,2002,Total Energy Use,11462.5021092231
+244,Bahrain,BHR,2002,Total Energy Use,11548.6750822972
+245,Qatar,QAT,2002,Total Energy Use,21300.0739617271
+246,Palau,PLW,2002,Total Energy Use,
+247,Czech Republic,CZE,2003,Total Energy Use,4357.57266187417
+248,Russian Federation,RUS,2003,Total Energy Use,4461.30531990288
+249,Netherlands,NLD,2003,Total Energy Use,5020.38193187406
+250,Australia,AUS,2003,Total Energy Use,5568.76494063954
+251,Belgium,BEL,2003,Total Energy Use,5590.02597595848
+252,Sweden,SWE,2003,Total Energy Use,5650.43804975291
+253,Norway,NOR,2003,Total Energy Use,5933.21584146703
+254,Finland,FIN,2003,Total Energy Use,7077.0266490748
+255,Brunei Darussalam,BRN,2003,Total Energy Use,7090.20789991367
+256,United States,USA,2003,Total Energy Use,7794.23553026383
+257,Canada,CAN,2003,Total Energy Use,8341.34314379952
+258,Luxembourg,LUX,2003,Total Energy Use,8549.50291167549
+259,Kuwait,KWT,2003,Total Energy Use,10131.4468830408
+260,Trinidad and Tobago,TTO,2003,Total Energy Use,10417.6519441181
+261,United Arab Emirates,ARE,2003,Total Energy Use,10568.8303473313
+262,Iceland,ISL,2003,Total Energy Use,10731.3286428273
+263,Bahrain,BHR,2003,Total Energy Use,11566.5448409417
+264,Qatar,QAT,2003,Total Energy Use,20727.8667509545
+265,Palau,PLW,2003,Total Energy Use,
+266,Czech Republic,CZE,2004,Total Energy Use,4460.25993073914
+267,Russian Federation,RUS,2004,Total Energy Use,4493.68721494055
+268,Netherlands,NLD,2004,Total Energy Use,5085.8857008193
+269,Belgium,BEL,2004,Total Energy Use,5592.98874969209
+270,Australia,AUS,2004,Total Energy Use,5598.0881783042
+271,Norway,NOR,2004,Total Energy Use,5769.32670718721
+272,Sweden,SWE,2004,Total Energy Use,5847.3441632658
+273,Brunei Darussalam,BRN,2004,Total Energy Use,6389.79617954896
+274,Finland,FIN,2004,Total Energy Use,7134.85420908111
+275,United States,USA,2004,Total Energy Use,7881.57864206405
+276,Canada,CAN,2004,Total Energy Use,8455.5470136727
+277,Luxembourg,LUX,2004,Total Energy Use,9387.43710365754
+278,United Arab Emirates,ARE,2004,Total Energy Use,10286.8029780437
+279,Iceland,ISL,2004,Total Energy Use,10524.2507035888
+280,Kuwait,KWT,2004,Total Energy Use,10619.6333738999
+281,Trinidad and Tobago,TTO,2004,Total Energy Use,10880.1781236556
+282,Bahrain,BHR,2004,Total Energy Use,10894.9889497569
+283,Qatar,QAT,2004,Total Energy Use,22120.4303016465
+284,Palau,PLW,2004,Total Energy Use,
+285,Czech Republic,CZE,2005,Total Energy Use,4400.87811285159
+286,Russian Federation,RUS,2005,Total Energy Use,4540.90815577671
+287,Netherlands,NLD,2005,Total Energy Use,4989.46792952002
+288,Belgium,BEL,2005,Total Energy Use,5555.61578402951
+289,Australia,AUS,2005,Total Energy Use,5564.08716927844
+290,Sweden,SWE,2005,Total Energy Use,5711.12728266633
+291,Norway,NOR,2005,Total Energy Use,5802.71629019242
+292,Brunei Darussalam,BRN,2005,Total Energy Use,6074.60176603344
+293,Finland,FIN,2005,Total Energy Use,6562.02231144836
+294,United States,USA,2005,Total Energy Use,7846.49968849973
+295,Canada,CAN,2005,Total Energy Use,8422.03430847519
+296,Luxembourg,LUX,2005,Total Energy Use,9428.81128562768
+297,United Arab Emirates,ARE,2005,Total Energy Use,9698.29424121152
+298,Iceland,ISL,2005,Total Energy Use,10524.8774997135
+299,Kuwait,KWT,2005,Total Energy Use,11576.8374184432
+300,Bahrain,BHR,2005,Total Energy Use,11675.5511118959
+301,Trinidad and Tobago,TTO,2005,Total Energy Use,12430.5763916153
+302,Qatar,QAT,2005,Total Energy Use,19256.5154088813
+303,Palau,PLW,2005,Total Energy Use,
+304,Czech Republic,CZE,2006,Total Energy Use,4491.51613380532
+305,Russian Federation,RUS,2006,Total Energy Use,4688.39102332011
+306,Netherlands,NLD,2006,Total Energy Use,4925.11241671638
+307,Belgium,BEL,2006,Total Energy Use,5470.49182410472
+308,Sweden,SWE,2006,Total Energy Use,5529.07795326361
+309,Australia,AUS,2006,Total Energy Use,5709.34466781654
+310,Norway,NOR,2006,Total Energy Use,5833.77393455929
+311,Finland,FIN,2006,Total Energy Use,7111.856821567
+312,United States,USA,2006,Total Energy Use,7697.65253500041
+313,Canada,CAN,2006,Total Energy Use,8239.94637098436
+314,Brunei Darussalam,BRN,2006,Total Energy Use,8511.59719333877
+315,United Arab Emirates,ARE,2006,Total Energy Use,8716.29298068063
+316,Luxembourg,LUX,2006,Total Energy Use,9170.532565161
+317,Kuwait,KWT,2006,Total Energy Use,10811.6276924127
+318,Bahrain,BHR,2006,Total Energy Use,11604.1403430427
+319,Iceland,ISL,2006,Total Energy Use,12734.0066231706
+320,Trinidad and Tobago,TTO,2006,Total Energy Use,13805.1087403804
+321,Qatar,QAT,2006,Total Energy Use,19155.8525242886
+322,Palau,PLW,2006,Total Energy Use,
+323,Czech Republic,CZE,2007,Total Energy Use,4468.96035160506
+324,Russian Federation,RUS,2007,Total Energy Use,4709.84488692751
+325,Netherlands,NLD,2007,Total Energy Use,4908.89826059524
+326,Belgium,BEL,2007,Total Energy Use,5336.96321183546
+327,Sweden,SWE,2007,Total Energy Use,5472.13539172977
+328,Norway,NOR,2007,Total Energy Use,5862.21726072608
+329,Australia,AUS,2007,Total Energy Use,5868.34709712113
+330,Finland,FIN,2007,Total Energy Use,6974.89676140919
+331,United States,USA,2007,Total Energy Use,7758.16598577052
+332,United Arab Emirates,ARE,2007,Total Energy Use,8127.93446294493
+333,Canada,CAN,2007,Total Energy Use,8213.38954256017
+334,Brunei Darussalam,BRN,2007,Total Energy Use,8606.72005803177
+335,Luxembourg,LUX,2007,Total Energy Use,8773.89670266025
+336,Kuwait,KWT,2007,Total Energy Use,10489.0104974948
+337,Bahrain,BHR,2007,Total Energy Use,11233.8636811195
+338,Trinidad and Tobago,TTO,2007,Total Energy Use,14617.0530016432
+339,Iceland,ISL,2007,Total Energy Use,14746.0313384644
+340,Qatar,QAT,2007,Total Energy Use,18167.4919015365
+341,Palau,PLW,2007,Total Energy Use,
+342,Czech Republic,CZE,2008,Total Energy Use,4330.7126907018
+343,Russian Federation,RUS,2008,Total Energy Use,4823.12599470293
+344,Netherlands,NLD,2008,Total Energy Use,4848.01368974655
+345,Sweden,SWE,2008,Total Energy Use,5379.9591025113
+346,Belgium,BEL,2008,Total Energy Use,5454.66715929162
+347,Australia,AUS,2008,Total Energy Use,5964.66577565273
+348,Finland,FIN,2008,Total Energy Use,6669.1733483595
+349,Norway,NOR,2008,Total Energy Use,6752.7089818993
+350,United States,USA,2008,Total Energy Use,7488.08192070473
+351,Canada,CAN,2008,Total Energy Use,8194.88077131979
+352,United Arab Emirates,ARE,2008,Total Energy Use,8367.15271036574
+353,Luxembourg,LUX,2008,Total Energy Use,8612.2337051059
+354,Brunei Darussalam,BRN,2008,Total Energy Use,9337.11632025892
+355,Kuwait,KWT,2008,Total Energy Use,10810.8064352167
+356,Bahrain,BHR,2008,Total Energy Use,11318.2170107972
+357,Trinidad and Tobago,TTO,2008,Total Energy Use,14127.1019263585
+358,Qatar,QAT,2008,Total Energy Use,15832.0338003856
+359,Iceland,ISL,2008,Total Energy Use,16353.8312739829
+360,Palau,PLW,2008,Total Energy Use,
+361,Czech Republic,CZE,2009,Total Energy Use,4034.7435104926
+362,Russian Federation,RUS,2009,Total Energy Use,4531.28646273085
+363,Netherlands,NLD,2009,Total Energy Use,4722.10603889032
+364,Sweden,SWE,2009,Total Energy Use,4883.20048954053
+365,Belgium,BEL,2009,Total Energy Use,5196.58198268641
+366,Australia,AUS,2009,Total Energy Use,5862.55194383105
+367,Finland,FIN,2009,Total Energy Use,6268.30054519017
+368,Norway,NOR,2009,Total Energy Use,6484.11858531629
+369,United States,USA,2009,Total Energy Use,7056.78365282718
+370,United Arab Emirates,ARE,2009,Total Energy Use,7572.35826350373
+371,Canada,CAN,2009,Total Energy Use,7797.12113645126
+372,Brunei Darussalam,BRN,2009,Total Energy Use,7925.99673875104
+373,Luxembourg,LUX,2009,Total Energy Use,7951.72394396755
+374,Bahrain,BHR,2009,Total Energy Use,10339.1996287155
+375,Kuwait,KWT,2009,Total Energy Use,11134.2582401319
+376,Trinidad and Tobago,TTO,2009,Total Energy Use,14210.6469652614
+377,Qatar,QAT,2009,Total Energy Use,14643.2833981089
+378,Iceland,ISL,2009,Total Energy Use,16911.07978361
+379,Palau,PLW,2009,Total Energy Use,
+380,Czech Republic,CZE,2010,Total Energy Use,4237.89674072334
+381,Russian Federation,RUS,2010,Total Energy Use,4819.04078214698
+382,Netherlands,NLD,2010,Total Energy Use,5025.32091625393
+383,Sweden,SWE,2010,Total Energy Use,5427.92504600599
+384,Belgium,BEL,2010,Total Energy Use,5539.47222297176
+385,Australia,AUS,2010,Total Energy Use,5793.11602573559
+386,Finland,FIN,2010,Total Energy Use,6828.78375314542
+387,Norway,NOR,2010,Total Energy Use,6934.5901990734
+388,United States,USA,2010,Total Energy Use,7161.42655156518
+389,United Arab Emirates,ARE,2010,Total Energy Use,7215.21045969835
+390,Canada,CAN,2010,Total Energy Use,7788.56078606815
+391,Luxembourg,LUX,2010,Total Energy Use,8329.47827510637
+392,Brunei Darussalam,BRN,2010,Total Energy Use,8337.7522296042
+393,Bahrain,BHR,2010,Total Energy Use,10207.835024628
+394,Kuwait,KWT,2010,Total Energy Use,10721.4851912708
+395,Qatar,QAT,2010,Total Energy Use,14890.4256734663
+396,Trinidad and Tobago,TTO,2010,Total Energy Use,15108.6870098423
+397,Iceland,ISL,2010,Total Energy Use,17023.1668244031
+398,Palau,PLW,2010,Total Energy Use,
+399,Czech Republic,CZE,2011,Total Energy Use,4077.35605875256
+400,Netherlands,NLD,2011,Total Energy Use,4636.70190403517
+401,Russian Federation,RUS,2011,Total Energy Use,5049.42663067025
+402,Belgium,BEL,2011,Total Energy Use,5092.31614681439
+403,Sweden,SWE,2011,Total Energy Use,5274.6436131771
+404,Norway,NOR,2011,Total Energy Use,5649.69772392495
+405,Australia,AUS,2011,Total Energy Use,5745.23218954465
+406,Finland,FIN,2011,Total Energy Use,6537.63729819133
+407,United States,USA,2011,Total Energy Use,7029.95460147645
+408,United Arab Emirates,ARE,2011,Total Energy Use,7190.96953115412
+409,Canada,CAN,2011,Total Energy Use,7911.55458837168
+410,Luxembourg,LUX,2011,Total Energy Use,8056.404300594
+411,Brunei Darussalam,BRN,2011,Total Energy Use,9837.47240828374
+412,Bahrain,BHR,2011,Total Energy Use,9912.69589790894
+413,Kuwait,KWT,2011,Total Energy Use,10221.1957245678
+414,Trinidad and Tobago,TTO,2011,Total Energy Use,14775.9545869568
+415,Qatar,QAT,2011,Total Energy Use,15370.6935931807
+416,Iceland,ISL,2011,Total Energy Use,18157.598099143
+417,Palau,PLW,2011,Total Energy Use,
+418,Czech Republic,CZE,2012,Total Energy Use,4054.08501838826
+419,Netherlands,NLD,2012,Total Energy Use,4646.25524068631
+420,Belgium,BEL,2012,Total Energy Use,4845.48829505754
+421,Russian Federation,RUS,2012,Total Energy Use,5167.01035317865
+422,Sweden,SWE,2012,Total Energy Use,5269.48599771372
+423,Australia,AUS,2012,Total Energy Use,5575.28709327857
+424,Norway,NOR,2012,Total Energy Use,5906.14104846139
+425,Finland,FIN,2012,Total Energy Use,6275.77096367897
+426,United States,USA,2012,Total Energy Use,6872.02728367462
+427,United Arab Emirates,ARE,2012,Total Energy Use,7481.19223794352
+428,Luxembourg,LUX,2012,Total Energy Use,7722.19020390021
+429,Canada,CAN,2012,Total Energy Use,7733.41165473909
+430,Brunei Darussalam,BRN,2012,Total Energy Use,9599.18495627787
+431,Bahrain,BHR,2012,Total Energy Use,9659.61173652363
+432,Kuwait,KWT,2012,Total Energy Use,11105.9810944168
+433,Trinidad and Tobago,TTO,2012,Total Energy Use,14312.4246178282
+434,Qatar,QAT,2012,Total Energy Use,17344.3475140683
+435,Iceland,ISL,2012,Total Energy Use,17630.0714650968
+436,Palau,PLW,2012,Total Energy Use,
+437,Czech Republic,CZE,2013,Total Energy Use,3989.99141357576
+438,Netherlands,NLD,2013,Total Energy Use,4600.18297553883
+439,Belgium,BEL,2013,Total Energy Use,4997.46330606994
+440,Russian Federation,RUS,2013,Total Energy Use,5078.62634152433
+441,Sweden,SWE,2013,Total Energy Use,5146.53358997598
+442,Australia,AUS,2013,Total Energy Use,5468.39136879598
+443,Finland,FIN,2013,Total Energy Use,6116.22729442255
+444,Norway,NOR,2013,Total Energy Use,6415.99071427151
+445,United States,USA,2013,Total Energy Use,6905.59863316056
+446,Luxembourg,LUX,2013,Total Energy Use,7312.15400471142
+447,Brunei Darussalam,BRN,2013,Total Energy Use,7522.38547626937
+448,United Arab Emirates,ARE,2013,Total Energy Use,7604.84134000905
+449,Canada,CAN,2013,Total Energy Use,7743.72574213676
+450,Kuwait,KWT,2013,Total Energy Use,9906.50020332454
+451,Bahrain,BHR,2013,Total Energy Use,10419.815836761
+452,Trinidad and Tobago,TTO,2013,Total Energy Use,14478.8492052939
+453,Qatar,QAT,2013,Total Energy Use,17266.0950047056
+454,Iceland,ISL,2013,Total Energy Use,18178.139014838
+455,Palau,PLW,2013,Total Energy Use,
+456,Czech Republic,CZE,2014,Total Energy Use,3915.11358247856
+457,Netherlands,NLD,2014,Total Energy Use,4325.52371158081
+458,Belgium,BEL,2014,Total Energy Use,4708.22121789549
+459,Russian Federation,RUS,2014,Total Energy Use,4942.87548308675
+460,Sweden,SWE,2014,Total Energy Use,4966.43592120964
+461,Australia,AUS,2014,Total Energy Use,5334.68167873774
+462,Norway,NOR,2014,Total Energy Use,5595.65462490306
+463,Finland,FIN,2014,Total Energy Use,6213.35776612777
+464,Luxembourg,LUX,2014,Total Energy Use,6861.10666721791
+465,United States,USA,2014,Total Energy Use,6960.68399657951
+466,United Arab Emirates,ARE,2014,Total Energy Use,7648.39407339686
+467,Canada,CAN,2014,Total Energy Use,7897.85561511436
+468,Brunei Darussalam,BRN,2014,Total Energy Use,8672.89849625895
+469,Kuwait,KWT,2014,Total Energy Use,9178.89052081327
+470,Bahrain,BHR,2014,Total Energy Use,10596.5662055891
+471,Trinidad and Tobago,TTO,2014,Total Energy Use,14363.5686324309
+472,Iceland,ISL,2014,Total Energy Use,17916.1204205433
+473,Qatar,QAT,2014,Total Energy Use,17922.7037876514
+474,Palau,PLW,2014,Total Energy Use,
+475,Kuwait,KWT,1990,Energy Use from Fossil Fuels,4340.155939255202
+476,Netherlands,NLD,1990,Energy Use from Fossil Fuels,4341.736782614332
+477,Czech Republic,CZE,1990,Energy Use from Fossil Fuels,4625.618356782204
+478,Belgium,BEL,1990,Energy Use from Fossil Fuels,4748.80785509858
+479,Palau,PLW,1990,Energy Use from Fossil Fuels,
+480,Trinidad and Tobago,TTO,1990,Energy Use from Fossil Fuels,4844.636913794874
+481,Norway,NOR,1990,Energy Use from Fossil Fuels,2027.7965669826285
+482,Australia,AUS,1990,Energy Use from Fossil Fuels,4656.103033351259
+483,Sweden,SWE,1990,Energy Use from Fossil Fuels,3636.189387412905
+484,Finland,FIN,1990,Energy Use from Fossil Fuels,4296.656361863592
+485,Russian Federation,RUS,1990,Energy Use from Fossil Fuels,5718.66154910529
+486,Brunei Darussalam,BRN,1990,Energy Use from Fossil Fuels,6630.052746673195
+487,Canada,CAN,1990,Energy Use from Fossil Fuels,5949.888472833791
+488,United States,USA,1990,Energy Use from Fossil Fuels,7351.441082438399
+489,Luxembourg,LUX,1990,Energy Use from Fossil Fuels,8721.307799883069
+490,Iceland,ISL,1990,Energy Use from Fossil Fuels,4037.710147576746
+491,Bahrain,BHR,1990,Energy Use from Fossil Fuels,10555.3559294009
+492,United Arab Emirates,ARE,1990,Energy Use from Fossil Fuels,11170.2328272727
+493,Qatar,QAT,1990,Energy Use from Fossil Fuels,13703.1756863157
+494,Kuwait,KWT,1991,Energy Use from Fossil Fuels,1320.3743233056878
+495,Czech Republic,CZE,1991,Energy Use from Fossil Fuels,4176.34616238644
+496,Netherlands,NLD,1991,Energy Use from Fossil Fuels,4549.889219657503
+497,Trinidad and Tobago,TTO,1991,Energy Use from Fossil Fuels,4778.05503244539
+498,Australia,AUS,1991,Energy Use from Fossil Fuels,4521.462725868952
+499,Belgium,BEL,1991,Energy Use from Fossil Fuels,4945.177657342562
+500,Norway,NOR,1991,Energy Use from Fossil Fuels,2001.9742914795602
+501,Sweden,SWE,1991,Energy Use from Fossil Fuels,3816.4439313945604
+502,Finland,FIN,1991,Energy Use from Fossil Fuels,4362.9644049170765
+503,Russian Federation,RUS,1991,Energy Use from Fossil Fuels,5649.104391308453
+504,Brunei Darussalam,BRN,1991,Energy Use from Fossil Fuels,7303.619576894092
+505,Canada,CAN,1991,Energy Use from Fossil Fuels,5848.645311549695
+506,United States,USA,1991,Energy Use from Fossil Fuels,7287.447373368963
+507,Iceland,ISL,1991,Energy Use from Fossil Fuels,3641.5821739478224
+508,Luxembourg,LUX,1991,Energy Use from Fossil Fuels,9194.399918217136
+509,Bahrain,BHR,1991,Energy Use from Fossil Fuels,10108.4133379891
+510,United Arab Emirates,ARE,1991,Energy Use from Fossil Fuels,12124.9117909268
+511,Qatar,QAT,1991,Energy Use from Fossil Fuels,14818.4563992498
+512,Palau,PLW,1991,Energy Use from Fossil Fuels,
+513,Czech Republic,CZE,1992,Energy Use from Fossil Fuels,3973.2890065828856
+514,Netherlands,NLD,1992,Energy Use from Fossil Fuels,4447.890373183578
+515,Australia,AUS,1992,Energy Use from Fossil Fuels,4586.456968758639
+516,Belgium,BEL,1992,Energy Use from Fossil Fuels,4980.468039792108
+517,Norway,NOR,1992,Energy Use from Fossil Fuels,1992.709757788563
+518,Trinidad and Tobago,TTO,1992,Energy Use from Fossil Fuels,5221.751481396972
+519,Russian Federation,RUS,1992,Energy Use from Fossil Fuels,5143.291258578794
+520,Sweden,SWE,1992,Energy Use from Fossil Fuels,3585.0125671601695
+521,Finland,FIN,1992,Energy Use from Fossil Fuels,4029.104731005118
+522,Canada,CAN,1992,Energy Use from Fossil Fuels,5934.636786184334
+523,Brunei Darussalam,BRN,1992,Energy Use from Fossil Fuels,7650.3888116664675
+524,United States,USA,1992,Energy Use from Fossil Fuels,7311.720391815971
+525,Iceland,ISL,1992,Energy Use from Fossil Fuels,3518.3695186547748
+526,Luxembourg,LUX,1992,Energy Use from Fossil Fuels,9075.724215269976
+527,Bahrain,BHR,1992,Energy Use from Fossil Fuels,10837.8303975285
+528,United Arab Emirates,ARE,1992,Energy Use from Fossil Fuels,10869.948063682063
+529,Qatar,QAT,1992,Energy Use from Fossil Fuels,15242.9537164692
+530,Kuwait,KWT,1992,Energy Use from Fossil Fuels,
+531,Palau,PLW,1992,Energy Use from Fossil Fuels,
+532,Czech Republic,CZE,1993,Energy Use from Fossil Fuels,3851.509566677427
+533,Netherlands,NLD,1993,Energy Use from Fossil Fuels,4455.90788549374
+534,Belgium,BEL,1993,Energy Use from Fossil Fuels,4855.381071584512
+535,Trinidad and Tobago,TTO,1993,Energy Use from Fossil Fuels,4966.23477721874
+536,Russian Federation,RUS,1993,Energy Use from Fossil Fuels,4855.542439671278
+537,Australia,AUS,1993,Energy Use from Fossil Fuels,4703.973732006034
+538,Sweden,SWE,1993,Energy Use from Fossil Fuels,3500.005226017519
+539,Norway,NOR,1993,Energy Use from Fossil Fuels,2123.9393660099317
+540,Finland,FIN,1993,Energy Use from Fossil Fuels,4156.54071706421
+541,Brunei Darussalam,BRN,1993,Energy Use from Fossil Fuels,7175.54067678675
+542,United States,USA,1993,Energy Use from Fossil Fuels,7379.412302833525
+543,Canada,CAN,1993,Energy Use from Fossil Fuels,6076.329630289994
+544,Iceland,ISL,1993,Energy Use from Fossil Fuels,3740.377599083041
+545,Luxembourg,LUX,1993,Energy Use from Fossil Fuels,9082.351639829572
+546,United Arab Emirates,ARE,1993,Energy Use from Fossil Fuels,10803.845089326063
+547,Bahrain,BHR,1993,Energy Use from Fossil Fuels,11142.3821175207
+548,Qatar,QAT,1993,Energy Use from Fossil Fuels,15624.7081134006
+549,Kuwait,KWT,1993,Energy Use from Fossil Fuels,
+550,Palau,PLW,1993,Energy Use from Fossil Fuels,
+551,Czech Republic,CZE,1994,Energy Use from Fossil Fuels,3729.1711411684505
+552,Russian Federation,RUS,1994,Energy Use from Fossil Fuels,4255.49454550768
+553,Netherlands,NLD,1994,Energy Use from Fossil Fuels,4454.73918750632
+554,Trinidad and Tobago,TTO,1994,Energy Use from Fossil Fuels,4975.71410255347
+555,Australia,AUS,1994,Energy Use from Fossil Fuels,4669.375106876824
+556,Belgium,BEL,1994,Energy Use from Fossil Fuels,5137.458621425122
+557,Norway,NOR,1994,Energy Use from Fossil Fuels,2104.892981196738
+558,Sweden,SWE,1994,Energy Use from Fossil Fuels,3885.5259149954395
+559,Finland,FIN,1994,Energy Use from Fossil Fuels,4471.535503480779
+560,Brunei Darussalam,BRN,1994,Energy Use from Fossil Fuels,6479.12952752097
+561,United States,USA,1994,Energy Use from Fossil Fuels,7440.640939869429
+562,Canada,CAN,1994,Energy Use from Fossil Fuels,6231.104764405092
+563,Iceland,ISL,1994,Energy Use from Fossil Fuels,3803.562097716769
+564,Luxembourg,LUX,1994,Energy Use from Fossil Fuels,8574.3635124798
+565,United Arab Emirates,ARE,1994,Energy Use from Fossil Fuels,11341.82118913257
+566,Bahrain,BHR,1994,Energy Use from Fossil Fuels,11555.4940955985
+567,Qatar,QAT,1994,Energy Use from Fossil Fuels,15511.060184126
+568,Kuwait,KWT,1994,Energy Use from Fossil Fuels,
+569,Palau,PLW,1994,Energy Use from Fossil Fuels,
+570,Czech Republic,CZE,1995,Energy Use from Fossil Fuels,3806.6395417114904
+571,Russian Federation,RUS,1995,Energy Use from Fossil Fuels,4124.614393024992
+572,Netherlands,NLD,1995,Energy Use from Fossil Fuels,4719.36348334672
+573,Trinidad and Tobago,TTO,1995,Energy Use from Fossil Fuels,4844.922573774386
+574,Australia,AUS,1995,Energy Use from Fossil Fuels,4707.714025900064
+575,Belgium,BEL,1995,Energy Use from Fossil Fuels,5201.27750065925
+576,Norway,NOR,1995,Energy Use from Fossil Fuels,2154.024910674306
+577,Finland,FIN,1995,Energy Use from Fossil Fuels,4118.105952379687
+578,Sweden,SWE,1995,Energy Use from Fossil Fuels,3768.322441593126
+579,Brunei Darussalam,BRN,1995,Energy Use from Fossil Fuels,7562.82142760979
+580,Luxembourg,LUX,1995,Energy Use from Fossil Fuels,7397.890875627496
+581,United States,USA,1995,Energy Use from Fossil Fuels,7396.797002050518
+582,Canada,CAN,1995,Energy Use from Fossil Fuels,6230.419319956338
+583,Iceland,ISL,1995,Energy Use from Fossil Fuels,3661.374343988404
+584,Kuwait,KWT,1995,Energy Use from Fossil Fuels,9200.317778267783
+585,Bahrain,BHR,1995,Energy Use from Fossil Fuels,11408.539679048
+586,United Arab Emirates,ARE,1995,Energy Use from Fossil Fuels,11450.27461083086
+587,Qatar,QAT,1995,Energy Use from Fossil Fuels,15871.0869865828
+588,Palau,PLW,1995,Energy Use from Fossil Fuels,
+589,Czech Republic,CZE,1996,Energy Use from Fossil Fuels,3935.2589175356843
+590,Russian Federation,RUS,1996,Energy Use from Fossil Fuels,4095.4977788042174
+591,Netherlands,NLD,1996,Energy Use from Fossil Fuels,4950.430045653545
+592,Norway,NOR,1996,Energy Use from Fossil Fuels,2192.634056722165
+593,Australia,AUS,1996,Energy Use from Fossil Fuels,4915.387363379099
+594,Belgium,BEL,1996,Energy Use from Fossil Fuels,5470.896916066483
+595,Trinidad and Tobago,TTO,1996,Energy Use from Fossil Fuels,5725.176342010103
+596,Sweden,SWE,1996,Energy Use from Fossil Fuels,3998.5745414275098
+597,Finland,FIN,1996,Energy Use from Fossil Fuels,4439.112625670255
+598,Brunei Darussalam,BRN,1996,Energy Use from Fossil Fuels,7425.4612303854
+599,Luxembourg,LUX,1996,Energy Use from Fossil Fuels,7474.802386807162
+600,United States,USA,1996,Energy Use from Fossil Fuels,7470.763253408301
+601,Canada,CAN,1996,Energy Use from Fossil Fuels,6315.580705284312
+602,Iceland,ISL,1996,Energy Use from Fossil Fuels,4224.5346893861515
+603,Kuwait,KWT,1996,Energy Use from Fossil Fuels,8935.677680848985
+604,Bahrain,BHR,1996,Energy Use from Fossil Fuels,11109.805222747
+605,United Arab Emirates,ARE,1996,Energy Use from Fossil Fuels,11502.557366324449
+606,Qatar,QAT,1996,Energy Use from Fossil Fuels,16547.8794559557
+607,Palau,PLW,1996,Energy Use from Fossil Fuels,
+608,Russian Federation,RUS,1997,Energy Use from Fossil Fuels,3917.2373282165363
+609,Czech Republic,CZE,1997,Energy Use from Fossil Fuels,3948.5021195032946
+610,Netherlands,NLD,1997,Energy Use from Fossil Fuels,4762.841525223233
+611,Trinidad and Tobago,TTO,1997,Energy Use from Fossil Fuels,5390.409435757769
+612,Australia,AUS,1997,Energy Use from Fossil Fuels,4972.947028006001
+613,Norway,NOR,1997,Energy Use from Fossil Fuels,2253.649078871864
+614,Belgium,BEL,1997,Energy Use from Fossil Fuels,5460.023433830091
+615,Sweden,SWE,1997,Energy Use from Fossil Fuels,3651.6042086432726
+616,Finland,FIN,1997,Energy Use from Fossil Fuels,4467.40409212776
+617,Luxembourg,LUX,1997,Energy Use from Fossil Fuels,7084.830031892512
+618,Brunei Darussalam,BRN,1997,Energy Use from Fossil Fuels,7488.42487226008
+619,United States,USA,1997,Energy Use from Fossil Fuels,7475.178567999756
+620,Canada,CAN,1997,Energy Use from Fossil Fuels,6339.365432811319
+621,Iceland,ISL,1997,Energy Use from Fossil Fuels,3872.978212971255
+622,Kuwait,KWT,1997,Energy Use from Fossil Fuels,8592.11042550915
+623,United Arab Emirates,ARE,1997,Energy Use from Fossil Fuels,11549.730121028153
+624,Bahrain,BHR,1997,Energy Use from Fossil Fuels,12181.2827456142
+625,Qatar,QAT,1997,Energy Use from Fossil Fuels,19006.441007248
+626,Palau,PLW,1997,Energy Use from Fossil Fuels,
+627,Russian Federation,RUS,1998,Energy Use from Fossil Fuels,3838.761428419627
+628,Czech Republic,CZE,1998,Energy Use from Fossil Fuels,3815.3028272518454
+629,Netherlands,NLD,1998,Energy Use from Fossil Fuels,4766.392505942971
+630,Australia,AUS,1998,Energy Use from Fossil Fuels,5076.312913288284
+631,Belgium,BEL,1998,Energy Use from Fossil Fuels,5530.769872907773
+632,Norway,NOR,1998,Energy Use from Fossil Fuels,2301.377721961091
+633,Sweden,SWE,1998,Energy Use from Fossil Fuels,3712.3427702607323
+634,Trinidad and Tobago,TTO,1998,Energy Use from Fossil Fuels,6251.999504467575
+635,Finland,FIN,1998,Energy Use from Fossil Fuels,4392.060319236221
+636,Luxembourg,LUX,1998,Energy Use from Fossil Fuels,6591.282194880194
+637,Brunei Darussalam,BRN,1998,Energy Use from Fossil Fuels,7289.24123020038
+638,United States,USA,1998,Energy Use from Fossil Fuels,7449.85478677543
+639,Canada,CAN,1998,Energy Use from Fossil Fuels,6237.581330571565
+640,Iceland,ISL,1998,Energy Use from Fossil Fuels,3866.5633677138103
+641,Kuwait,KWT,1998,Energy Use from Fossil Fuels,9168.63385871278
+642,United Arab Emirates,ARE,1998,Energy Use from Fossil Fuels,11215.825860372015
+643,Bahrain,BHR,1998,Energy Use from Fossil Fuels,12406.8115047002
+644,Qatar,QAT,1998,Energy Use from Fossil Fuels,19348.547589953
+645,Palau,PLW,1998,Energy Use from Fossil Fuels,
+646,Czech Republic,CZE,1999,Energy Use from Fossil Fuels,3537.865818350676
+647,Russian Federation,RUS,1999,Energy Use from Fossil Fuels,3978.692152450747
+648,Netherlands,NLD,1999,Energy Use from Fossil Fuels,4651.987215868497
+649,Australia,AUS,1999,Energy Use from Fossil Fuels,5133.057326010029
+650,Belgium,BEL,1999,Energy Use from Fossil Fuels,5534.100140423129
+651,Sweden,SWE,1999,Energy Use from Fossil Fuels,3691.731169247738
+652,Norway,NOR,1999,Energy Use from Fossil Fuels,2399.9168590602562
+653,Finland,FIN,1999,Energy Use from Fossil Fuels,4383.935505071817
+654,Luxembourg,LUX,1999,Energy Use from Fossil Fuels,6840.8973524934845
+655,Brunei Darussalam,BRN,1999,Energy Use from Fossil Fuels,7270.94483989038
+656,Trinidad and Tobago,TTO,1999,Energy Use from Fossil Fuels,7289.93709673393
+657,United States,USA,1999,Energy Use from Fossil Fuels,7470.829471001874
+658,Canada,CAN,1999,Energy Use from Fossil Fuels,6347.772435765331
+659,Kuwait,KWT,1999,Energy Use from Fossil Fuels,9232.40122932382
+660,Iceland,ISL,1999,Energy Use from Fossil Fuels,4033.62699012348
+661,United Arab Emirates,ARE,1999,Energy Use from Fossil Fuels,10862.676997097766
+662,Bahrain,BHR,1999,Energy Use from Fossil Fuels,11851.6196939705
+663,Qatar,QAT,1999,Energy Use from Fossil Fuels,19839.0109485597
+664,Palau,PLW,1999,Energy Use from Fossil Fuels,
+665,Czech Republic,CZE,2000,Energy Use from Fossil Fuels,3751.085204766939
+666,Russian Federation,RUS,2000,Energy Use from Fossil Fuels,4076.5795649717593
+667,Netherlands,NLD,2000,Energy Use from Fossil Fuels,4657.04691049614
+668,Sweden,SWE,2000,Energy Use from Fossil Fuels,3215.5992148811474
+669,Australia,AUS,2000,Energy Use from Fossil Fuels,5168.608931273855
+670,Belgium,BEL,2000,Energy Use from Fossil Fuels,5587.50398404669
+671,Norway,NOR,2000,Energy Use from Fossil Fuels,2319.676119676312
+672,Finland,FIN,2000,Energy Use from Fossil Fuels,4278.411068719167
+673,Brunei Darussalam,BRN,2000,Energy Use from Fossil Fuels,7157.11086965657
+674,Luxembourg,LUX,2000,Energy Use from Fossil Fuels,7154.3284668335045
+675,Trinidad and Tobago,TTO,2000,Energy Use from Fossil Fuels,7705.6918984499625
+676,United States,USA,2000,Energy Use from Fossil Fuels,7619.400321723982
+677,Canada,CAN,2000,Energy Use from Fossil Fuels,6443.613404641129
+678,Kuwait,KWT,2000,Energy Use from Fossil Fuels,9151.98058992051
+679,United Arab Emirates,ARE,2000,Energy Use from Fossil Fuels,10050.234741725813
+680,Iceland,ISL,2000,Energy Use from Fossil Fuels,4363.426343232945
+681,Bahrain,BHR,2000,Energy Use from Fossil Fuels,11988.7934277245
+682,Qatar,QAT,2000,Energy Use from Fossil Fuels,18431.9261663519
+683,Palau,PLW,2000,Energy Use from Fossil Fuels,
+684,Czech Republic,CZE,2001,Energy Use from Fossil Fuels,3852.6761039095954
+685,Russian Federation,RUS,2001,Energy Use from Fossil Fuels,4133.108872285988
+686,Netherlands,NLD,2001,Energy Use from Fossil Fuels,4754.131237227301
+687,Australia,AUS,2001,Energy Use from Fossil Fuels,4991.007070304732
+688,Belgium,BEL,2001,Energy Use from Fossil Fuels,5545.166710650002
+689,Sweden,SWE,2001,Energy Use from Fossil Fuels,3540.950569001579
+690,Norway,NOR,2001,Energy Use from Fossil Fuels,2405.2721594266436
+691,Finland,FIN,2001,Energy Use from Fossil Fuels,4535.5365500489315
+692,Brunei Darussalam,BRN,2001,Energy Use from Fossil Fuels,6492.66697447631
+693,United States,USA,2001,Energy Use from Fossil Fuels,7461.643010195818
+694,Luxembourg,LUX,2001,Energy Use from Fossil Fuels,7709.517550322289
+695,Canada,CAN,2001,Energy Use from Fossil Fuels,6322.042915515133
+696,Trinidad and Tobago,TTO,2001,Energy Use from Fossil Fuels,8579.8806601106
+697,Kuwait,KWT,2001,Energy Use from Fossil Fuels,9497.47417477427
+698,Iceland,ISL,2001,Energy Use from Fossil Fuels,4011.4167464503316
+699,Bahrain,BHR,2001,Energy Use from Fossil Fuels,11738.129166368
+700,United Arab Emirates,ARE,2001,Energy Use from Fossil Fuels,12164.537385796535
+701,Qatar,QAT,2001,Energy Use from Fossil Fuels,19621.8405139404
+702,Palau,PLW,2001,Energy Use from Fossil Fuels,
+703,Czech Republic,CZE,2002,Energy Use from Fossil Fuels,3860.5174752369194
+704,Russian Federation,RUS,2002,Energy Use from Fossil Fuels,4139.886670949561
+705,Netherlands,NLD,2002,Energy Use from Fossil Fuels,4779.880184887504
+706,Belgium,BEL,2002,Energy Use from Fossil Fuels,5300.085560101578
+707,Norway,NOR,2002,Energy Use from Fossil Fuels,2228.530406091004
+708,Australia,AUS,2002,Energy Use from Fossil Fuels,5082.882215410208
+709,Sweden,SWE,2002,Energy Use from Fossil Fuels,3704.6589442621785
+710,Brunei Darussalam,BRN,2002,Energy Use from Fossil Fuels,6221.24881407936
+711,Finland,FIN,2002,Energy Use from Fossil Fuels,4742.203270478107
+712,United States,USA,2002,Energy Use from Fossil Fuels,7463.664226704491
+713,Canada,CAN,2002,Energy Use from Fossil Fuels,6253.827704689453
+714,Luxembourg,LUX,2002,Energy Use from Fossil Fuels,8096.5639301323845
+715,Trinidad and Tobago,TTO,2002,Energy Use from Fossil Fuels,9296.961832630373
+716,Kuwait,KWT,2002,Energy Use from Fossil Fuels,9612.8570499361
+717,Iceland,ISL,2002,Energy Use from Fossil Fuels,4122.770166091993
+718,United Arab Emirates,ARE,2002,Energy Use from Fossil Fuels,11454.879545245312
+719,Bahrain,BHR,2002,Energy Use from Fossil Fuels,11548.6750822972
+720,Qatar,QAT,2002,Energy Use from Fossil Fuels,21300.0739617271
+721,Palau,PLW,2002,Energy Use from Fossil Fuels,
+722,Czech Republic,CZE,2003,Energy Use from Fossil Fuels,4064.556407394488
+723,Russian Federation,RUS,2003,Energy Use from Fossil Fuels,4315.00126832363
+724,Netherlands,NLD,2003,Energy Use from Fossil Fuels,4924.688430127845
+725,Australia,AUS,2003,Energy Use from Fossil Fuels,5170.514703376243
+726,Belgium,BEL,2003,Energy Use from Fossil Fuels,5484.447154881418
+727,Sweden,SWE,2003,Energy Use from Fossil Fuels,3677.7683969721247
+728,Norway,NOR,2003,Energy Use from Fossil Fuels,2595.586151539389
+729,Finland,FIN,2003,Energy Use from Fossil Fuels,5070.371140821311
+730,Brunei Darussalam,BRN,2003,Energy Use from Fossil Fuels,7090.20789991367
+731,United States,USA,2003,Energy Use from Fossil Fuels,7379.091151976446
+732,Canada,CAN,2003,Energy Use from Fossil Fuels,6574.5966835597765
+733,Luxembourg,LUX,2003,Energy Use from Fossil Fuels,8440.300110968354
+734,Kuwait,KWT,2003,Energy Use from Fossil Fuels,10131.4468830408
+735,Trinidad and Tobago,TTO,2003,Energy Use from Fossil Fuels,10355.500233026829
+736,United Arab Emirates,ARE,2003,Energy Use from Fossil Fuels,10561.823213099538
+737,Iceland,ISL,2003,Energy Use from Fossil Fuels,4090.675109685334
+738,Bahrain,BHR,2003,Energy Use from Fossil Fuels,11566.5448409417
+739,Qatar,QAT,2003,Energy Use from Fossil Fuels,20727.8667509545
+740,Palau,PLW,2003,Energy Use from Fossil Fuels,
+741,Czech Republic,CZE,2004,Energy Use from Fossil Fuels,4142.0605287897915
+742,Russian Federation,RUS,2004,Energy Use from Fossil Fuels,4333.9995427962895
+743,Netherlands,NLD,2004,Energy Use from Fossil Fuels,4973.004464391426
+744,Belgium,BEL,2004,Energy Use from Fossil Fuels,5479.898513012882
+745,Australia,AUS,2004,Energy Use from Fossil Fuels,5224.091105466264
+746,Norway,NOR,2004,Energy Use from Fossil Fuels,2488.4317157243786
+747,Sweden,SWE,2004,Energy Use from Fossil Fuels,3752.486229883773
+748,Brunei Darussalam,BRN,2004,Energy Use from Fossil Fuels,6389.79617954896
+749,Finland,FIN,2004,Energy Use from Fossil Fuels,4915.921735426418
+750,United States,USA,2004,Energy Use from Fossil Fuels,7449.849390387416
+751,Canada,CAN,2004,Energy Use from Fossil Fuels,6630.91609720409
+752,Luxembourg,LUX,2004,Energy Use from Fossil Fuels,9260.265496097014
+753,United Arab Emirates,ARE,2004,Energy Use from Fossil Fuels,10276.475027770355
+754,Iceland,ISL,2004,Energy Use from Fossil Fuels,4019.6006234266706
+755,Kuwait,KWT,2004,Energy Use from Fossil Fuels,10619.6333738999
+756,Trinidad and Tobago,TTO,2004,Energy Use from Fossil Fuels,10814.625048125941
+757,Bahrain,BHR,2004,Energy Use from Fossil Fuels,10894.9889497569
+758,Qatar,QAT,2004,Energy Use from Fossil Fuels,22120.4303016465
+759,Palau,PLW,2004,Energy Use from Fossil Fuels,
+760,Czech Republic,CZE,2005,Energy Use from Fossil Fuels,4069.276339633055
+761,Russian Federation,RUS,2005,Energy Use from Fossil Fuels,4376.790647979327
+762,Netherlands,NLD,2005,Energy Use from Fossil Fuels,4852.671690589133
+763,Belgium,BEL,2005,Energy Use from Fossil Fuels,5419.014298829616
+764,Australia,AUS,2005,Energy Use from Fossil Fuels,5190.608956021056
+765,Sweden,SWE,2005,Energy Use from Fossil Fuels,3414.2375263608187
+766,Norway,NOR,2005,Energy Use from Fossil Fuels,2403.015042232147
+767,Brunei Darussalam,BRN,2005,Energy Use from Fossil Fuels,6074.60176603344
+768,Finland,FIN,2005,Energy Use from Fossil Fuels,4493.371086531389
+769,United States,USA,2005,Energy Use from Fossil Fuels,7388.169958512786
+770,Canada,CAN,2005,Energy Use from Fossil Fuels,6569.835254425182
+771,Luxembourg,LUX,2005,Energy Use from Fossil Fuels,9252.275649211286
+772,United Arab Emirates,ARE,2005,Energy Use from Fossil Fuels,9688.09163565936
+773,Iceland,ISL,2005,Energy Use from Fossil Fuels,3950.5127534577723
+774,Kuwait,KWT,2005,Energy Use from Fossil Fuels,11576.8374184432
+775,Bahrain,BHR,2005,Energy Use from Fossil Fuels,11675.5511118959
+776,Trinidad and Tobago,TTO,2005,Energy Use from Fossil Fuels,12362.954052369949
+777,Qatar,QAT,2005,Energy Use from Fossil Fuels,19256.5154088813
+778,Palau,PLW,2005,Energy Use from Fossil Fuels,
+779,Czech Republic,CZE,2006,Energy Use from Fossil Fuels,4137.526273985353
+780,Russian Federation,RUS,2006,Energy Use from Fossil Fuels,4525.089678519954
+781,Netherlands,NLD,2006,Energy Use from Fossil Fuels,4771.601589415499
+782,Belgium,BEL,2006,Energy Use from Fossil Fuels,5316.0981356902585
+783,Sweden,SWE,2006,Energy Use from Fossil Fuels,3263.632204606426
+784,Australia,AUS,2006,Energy Use from Fossil Fuels,5318.049020225624
+785,Norway,NOR,2006,Energy Use from Fossil Fuels,2505.267464822119
+786,Finland,FIN,2006,Energy Use from Fossil Fuels,4889.259270176171
+787,United States,USA,2006,Energy Use from Fossil Fuels,7205.256802576364
+788,Canada,CAN,2006,Energy Use from Fossil Fuels,6434.162048344179
+789,Brunei Darussalam,BRN,2006,Energy Use from Fossil Fuels,8511.59719333877
+790,United Arab Emirates,ARE,2006,Energy Use from Fossil Fuels,8706.060052894834
+791,Luxembourg,LUX,2006,Energy Use from Fossil Fuels,8979.932225807035
+792,Kuwait,KWT,2006,Energy Use from Fossil Fuels,10811.6276924127
+793,Bahrain,BHR,2006,Energy Use from Fossil Fuels,11604.1403430427
+794,Iceland,ISL,2006,Energy Use from Fossil Fuels,4582.332361070155
+795,Trinidad and Tobago,TTO,2006,Energy Use from Fossil Fuels,13729.801874900568
+796,Qatar,QAT,2006,Energy Use from Fossil Fuels,19155.8525242886
+797,Palau,PLW,2006,Energy Use from Fossil Fuels,
+798,Czech Republic,CZE,2007,Energy Use from Fossil Fuels,4097.049016231465
+799,Russian Federation,RUS,2007,Energy Use from Fossil Fuels,4537.068934777766
+800,Netherlands,NLD,2007,Energy Use from Fossil Fuels,4728.098629489569
+801,Belgium,BEL,2007,Energy Use from Fossil Fuels,5158.820720879743
+802,Sweden,SWE,2007,Energy Use from Fossil Fuels,3138.061653241299
+803,Norway,NOR,2007,Energy Use from Fossil Fuels,2498.0784326565768
+804,Australia,AUS,2007,Energy Use from Fossil Fuels,5460.379598646461
+805,Finland,FIN,2007,Energy Use from Fossil Fuels,4756.58670010847
+806,United States,USA,2007,Energy Use from Fossil Fuels,7269.07567231861
+807,United Arab Emirates,ARE,2007,Energy Use from Fossil Fuels,8118.766152700197
+808,Canada,CAN,2007,Energy Use from Fossil Fuels,6419.4621207654955
+809,Brunei Darussalam,BRN,2007,Energy Use from Fossil Fuels,8606.72005803177
+810,Luxembourg,LUX,2007,Energy Use from Fossil Fuels,8454.360153157024
+811,Kuwait,KWT,2007,Energy Use from Fossil Fuels,10489.0104974948
+812,Bahrain,BHR,2007,Energy Use from Fossil Fuels,11233.8636811195
+813,Trinidad and Tobago,TTO,2007,Energy Use from Fossil Fuels,14551.963262751966
+814,Iceland,ISL,2007,Energy Use from Fossil Fuels,4902.981167867445
+815,Qatar,QAT,2007,Energy Use from Fossil Fuels,18167.4919015365
+816,Palau,PLW,2007,Energy Use from Fossil Fuels,
+817,Czech Republic,CZE,2008,Energy Use from Fossil Fuels,3941.2473605114205
+818,Russian Federation,RUS,2008,Energy Use from Fossil Fuels,4663.625221829851
+819,Netherlands,NLD,2008,Energy Use from Fossil Fuels,4656.914680428059
+820,Sweden,SWE,2008,Energy Use from Fossil Fuels,3004.249826108518
+821,Belgium,BEL,2008,Energy Use from Fossil Fuels,5241.646048067436
+822,Australia,AUS,2008,Energy Use from Fossil Fuels,5559.664971761249
+823,Finland,FIN,2008,Energy Use from Fossil Fuels,4351.99585262765
+824,Norway,NOR,2008,Energy Use from Fossil Fuels,2803.1034800794487
+825,United States,USA,2008,Energy Use from Fossil Fuels,6975.477775143206
+826,Canada,CAN,2008,Energy Use from Fossil Fuels,6399.529958697379
+827,United Arab Emirates,ARE,2008,Energy Use from Fossil Fuels,8357.881905326236
+828,Luxembourg,LUX,2008,Energy Use from Fossil Fuels,8271.1892470984
+829,Brunei Darussalam,BRN,2008,Energy Use from Fossil Fuels,9337.11632025892
+830,Kuwait,KWT,2008,Energy Use from Fossil Fuels,10810.8064352167
+831,Bahrain,BHR,2008,Energy Use from Fossil Fuels,11318.2170107972
+832,Trinidad and Tobago,TTO,2008,Energy Use from Fossil Fuels,14061.820588471315
+833,Qatar,QAT,2008,Energy Use from Fossil Fuels,15832.0338003856
+834,Iceland,ISL,2008,Energy Use from Fossil Fuels,4340.290749760838
+835,Palau,PLW,2008,Energy Use from Fossil Fuels,
+836,Czech Republic,CZE,2009,Energy Use from Fossil Fuels,3621.1419369171995
+837,Russian Federation,RUS,2009,Energy Use from Fossil Fuels,4368.214528051059
+838,Netherlands,NLD,2009,Energy Use from Fossil Fuels,4515.197516746895
+839,Sweden,SWE,2009,Energy Use from Fossil Fuels,2600.6313671584353
+840,Belgium,BEL,2009,Energy Use from Fossil Fuels,4945.727376909392
+841,Australia,AUS,2009,Energy Use from Fossil Fuels,5443.443966039948
+842,Finland,FIN,2009,Energy Use from Fossil Fuels,4224.126160353869
+843,Norway,NOR,2009,Energy Use from Fossil Fuels,2804.1089563559863
+844,United States,USA,2009,Energy Use from Fossil Fuels,6537.799544718988
+845,United Arab Emirates,ARE,2009,Energy Use from Fossil Fuels,7564.202833826352
+846,Canada,CAN,2009,Energy Use from Fossil Fuels,6042.768880749727
+847,Brunei Darussalam,BRN,2009,Energy Use from Fossil Fuels,7925.99673875104
+848,Luxembourg,LUX,2009,Energy Use from Fossil Fuels,7655.013315691009
+849,Bahrain,BHR,2009,Energy Use from Fossil Fuels,10339.1996287155
+850,Kuwait,KWT,2009,Energy Use from Fossil Fuels,11134.2582401319
+851,Trinidad and Tobago,TTO,2009,Energy Use from Fossil Fuels,14141.49795548183
+852,Qatar,QAT,2009,Energy Use from Fossil Fuels,14643.2833981089
+853,Iceland,ISL,2009,Energy Use from Fossil Fuels,4376.181856640793
+854,Palau,PLW,2009,Energy Use from Fossil Fuels,
+855,Czech Republic,CZE,2010,Energy Use from Fossil Fuels,3773.7538166017753
+856,Russian Federation,RUS,2010,Energy Use from Fossil Fuels,4657.988438839964
+857,Netherlands,NLD,2010,Energy Use from Fossil Fuels,4831.825961151414
+858,Sweden,SWE,2010,Energy Use from Fossil Fuels,2944.084894874196
+859,Belgium,BEL,2010,Energy Use from Fossil Fuels,5216.809044125107
+860,Australia,AUS,2010,Energy Use from Fossil Fuels,5320.200809681482
+861,Finland,FIN,2010,Energy Use from Fossil Fuels,4535.13178069578
+862,Norway,NOR,2010,Energy Use from Fossil Fuels,3024.9930306363167
+863,United States,USA,2010,Energy Use from Fossil Fuels,6628.924361786798
+864,United Arab Emirates,ARE,2010,Energy Use from Fossil Fuels,7207.3170196936935
+865,Canada,CAN,2010,Energy Use from Fossil Fuels,6084.7273978763205
+866,Luxembourg,LUX,2010,Energy Use from Fossil Fuels,8023.145049024046
+867,Brunei Darussalam,BRN,2010,Energy Use from Fossil Fuels,8337.7522296042
+868,Bahrain,BHR,2010,Energy Use from Fossil Fuels,10207.835024628
+869,Kuwait,KWT,2010,Energy Use from Fossil Fuels,10721.4851912708
+870,Qatar,QAT,2010,Energy Use from Fossil Fuels,14890.4256734663
+871,Trinidad and Tobago,TTO,2010,Energy Use from Fossil Fuels,15051.697041317291
+872,Iceland,ISL,2010,Energy Use from Fossil Fuels,4184.584341638383
+873,Palau,PLW,2010,Energy Use from Fossil Fuels,
+874,Czech Republic,CZE,2011,Energy Use from Fossil Fuels,3581.663733701723
+875,Netherlands,NLD,2011,Energy Use from Fossil Fuels,4419.082941222336
+876,Russian Federation,RUS,2011,Energy Use from Fossil Fuels,4886.476589149688
+877,Belgium,BEL,2011,Energy Use from Fossil Fuels,4754.690505503282
+878,Sweden,SWE,2011,Energy Use from Fossil Fuels,2838.0536024015264
+879,Norway,NOR,2011,Energy Use from Fossil Fuels,2445.5054876419003
+880,Australia,AUS,2011,Energy Use from Fossil Fuels,5267.309321807586
+881,Finland,FIN,2011,Energy Use from Fossil Fuels,4232.00213040647
+882,United States,USA,2011,Energy Use from Fossil Fuels,6441.955164122413
+883,United Arab Emirates,ARE,2011,Energy Use from Fossil Fuels,7183.116992371237
+884,Canada,CAN,2011,Energy Use from Fossil Fuels,6183.346617203442
+885,Luxembourg,LUX,2011,Energy Use from Fossil Fuels,7753.314315907258
+886,Brunei Darussalam,BRN,2011,Energy Use from Fossil Fuels,9835.918087718286
+887,Bahrain,BHR,2011,Energy Use from Fossil Fuels,9912.69589790894
+888,Kuwait,KWT,2011,Energy Use from Fossil Fuels,10221.1957245678
+889,Trinidad and Tobago,TTO,2011,Energy Use from Fossil Fuels,14720.352668796268
+890,Qatar,QAT,2011,Energy Use from Fossil Fuels,15370.6935931807
+891,Iceland,ISL,2011,Energy Use from Fossil Fuels,4276.222961028203
+892,Palau,PLW,2011,Energy Use from Fossil Fuels,
+893,Czech Republic,CZE,2012,Energy Use from Fossil Fuels,3534.9877978829672
+894,Netherlands,NLD,2012,Energy Use from Fossil Fuels,4418.6723648564
+895,Belgium,BEL,2012,Energy Use from Fossil Fuels,4469.526866746698
+896,Russian Federation,RUS,2012,Energy Use from Fossil Fuels,4999.377042045964
+897,Sweden,SWE,2012,Energy Use from Fossil Fuels,2669.9537805184477
+898,Australia,AUS,2012,Energy Use from Fossil Fuels,5112.844885759989
+899,Norway,NOR,2012,Energy Use from Fossil Fuels,2480.3902124782753
+900,Finland,FIN,2012,Energy Use from Fossil Fuels,3840.056306080114
+901,United States,USA,2012,Energy Use from Fossil Fuels,6272.229882491838
+902,United Arab Emirates,ARE,2012,Energy Use from Fossil Fuels,7473.576384083873
+903,Luxembourg,LUX,2012,Energy Use from Fossil Fuels,7401.73476842827
+904,Canada,CAN,2012,Energy Use from Fossil Fuels,6018.976088791203
+905,Brunei Darussalam,BRN,2012,Energy Use from Fossil Fuels,9597.764276903912
+906,Bahrain,BHR,2012,Energy Use from Fossil Fuels,9659.61173652363
+907,Kuwait,KWT,2012,Energy Use from Fossil Fuels,11105.9810944168
+908,Trinidad and Tobago,TTO,2012,Energy Use from Fossil Fuels,14259.525896727344
+909,Qatar,QAT,2012,Energy Use from Fossil Fuels,17344.3475140683
+910,Iceland,ISL,2012,Energy Use from Fossil Fuels,3994.3749394255647
+911,Palau,PLW,2012,Energy Use from Fossil Fuels,
+912,Czech Republic,CZE,2013,Energy Use from Fossil Fuels,3433.140246039025
+913,Netherlands,NLD,2013,Energy Use from Fossil Fuels,4373.140938112755
+914,Belgium,BEL,2013,Energy Use from Fossil Fuels,4593.023584370808
+915,Russian Federation,RUS,2013,Energy Use from Fossil Fuels,4895.450442608559
+916,Sweden,SWE,2013,Energy Use from Fossil Fuels,2670.021681450446
+917,Australia,AUS,2013,Energy Use from Fossil Fuels,4964.468144182087
+918,Finland,FIN,2013,Energy Use from Fossil Fuels,3760.244380204237
+919,Norway,NOR,2013,Energy Use from Fossil Fuels,2730.6070655058456
+920,United States,USA,2013,Energy Use from Fossil Fuels,6278.342417593002
+921,Luxembourg,LUX,2013,Energy Use from Fossil Fuels,6894.074296933458
+922,Brunei Darussalam,BRN,2013,Energy Use from Fossil Fuels,7521.369954203732
+923,United Arab Emirates,ARE,2013,Energy Use from Fossil Fuels,7597.015958389848
+924,Canada,CAN,2013,Energy Use from Fossil Fuels,6009.285994877825
+925,Kuwait,KWT,2013,Energy Use from Fossil Fuels,9906.34169932529
+926,Bahrain,BHR,2013,Energy Use from Fossil Fuels,10419.815836761
+927,Trinidad and Tobago,TTO,2013,Energy Use from Fossil Fuels,14426.23306550752
+928,Qatar,QAT,2013,Energy Use from Fossil Fuels,17266.0950047056
+929,Iceland,ISL,2013,Energy Use from Fossil Fuels,4306.255953813241
+930,Palau,PLW,2013,Energy Use from Fossil Fuels,
+931,Czech Republic,CZE,2014,Energy Use from Fossil Fuels,3333.2963914576917
+932,Netherlands,NLD,2014,Energy Use from Fossil Fuels,4086.4736339249644
+933,Belgium,BEL,2014,Energy Use from Fossil Fuels,4278.605460992794
+934,Russian Federation,RUS,2014,Energy Use from Fossil Fuels,4779.953369172322
+935,Sweden,SWE,2014,Energy Use from Fossil Fuels,2505.909683323135
+936,Australia,AUS,2014,Energy Use from Fossil Fuels,4837.654707898893
+937,Norway,NOR,2014,Energy Use from Fossil Fuels,2410.568838727483
+938,Finland,FIN,2014,Energy Use from Fossil Fuels,3650.403624506225
+939,Luxembourg,LUX,2014,Energy Use from Fossil Fuels,6391.3815832996825
+940,United States,USA,2014,Energy Use from Fossil Fuels,6318.874129205954
+941,United Arab Emirates,ARE,2014,Energy Use from Fossil Fuels,7637.862234270913
+942,Canada,CAN,2014,Energy Use from Fossil Fuels,6127.409153497894
+943,Brunei Darussalam,BRN,2014,Energy Use from Fossil Fuels,8671.684290431995
+944,Kuwait,KWT,2014,Energy Use from Fossil Fuels,9178.61515409525
+945,Bahrain,BHR,2014,Energy Use from Fossil Fuels,10596.5662055891
+946,Trinidad and Tobago,TTO,2014,Energy Use from Fossil Fuels,14314.028682491678
+947,Iceland,ISL,2014,Energy Use from Fossil Fuels,4223.653764027884
+948,Qatar,QAT,2014,Energy Use from Fossil Fuels,17922.7037876514
+949,Palau,PLW,2014,Energy Use from Fossil Fuels,
+950,Kuwait,KWT,1990,Energy Use from Renewables,7.183646016947963
+951,Netherlands,NLD,1990,Energy Use from Renewables,52.80530711439878
+952,Czech Republic,CZE,1990,Energy Use from Renewables,171.32310124377645
+953,Belgium,BEL,1990,Energy Use from Renewables,61.059412916409734
+954,Palau,PLW,1990,Energy Use from Renewables,
+955,Trinidad and Tobago,TTO,1990,Energy Use from Renewables,58.49553581495577
+956,Norway,NOR,1990,Energy Use from Renewables,2939.0970098478715
+957,Australia,AUS,1990,Energy Use from Renewables,405.4054254330417
+958,Sweden,SWE,1990,Energy Use from Renewables,1878.3681429051853
+959,Finland,FIN,1990,Energy Use from Renewables,1394.9148240206575
+960,Russian Federation,RUS,1990,Energy Use from Renewables,222.92470730242948
+961,Brunei Darussalam,BRN,1990,Energy Use from Renewables,44.839218972265066
+962,Canada,CAN,1990,Energy Use from Renewables,1680.2038332317784
+963,United States,USA,1990,Energy Use from Renewables,320.33198334480136
+964,Luxembourg,LUX,1990,Energy Use from Renewables,152.7972151752013
+965,Iceland,ISL,1990,Energy Use from Renewables,4870.081835972814
+966,Bahrain,BHR,1990,Energy Use from Renewables,0.0
+967,United Arab Emirates,ARE,1990,Energy Use from Renewables,0.0
+968,Qatar,QAT,1990,Energy Use from Renewables,0.0
+969,Kuwait,KWT,1991,Energy Use from Renewables,4.691385943132121
+970,Czech Republic,CZE,1991,Energy Use from Renewables,172.89007562815019
+971,Netherlands,NLD,1991,Energy Use from Renewables,53.843955797137085
+972,Trinidad and Tobago,TTO,1991,Energy Use from Renewables,63.36166974840017
+973,Australia,AUS,1991,Energy Use from Renewables,406.3188640407891
+974,Belgium,BEL,1991,Energy Use from Renewables,60.82704894619777
+975,Norway,NOR,1991,Energy Use from Renewables,3103.13391335359
+976,Sweden,SWE,1991,Energy Use from Renewables,1834.09744576496
+977,Finland,FIN,1991,Energy Use from Renewables,1379.819824021804
+978,Russian Federation,RUS,1991,Energy Use from Renewables,221.12946605428692
+979,Brunei Darussalam,BRN,1991,Energy Use from Renewables,31.700924368078706
+980,Canada,CAN,1991,Energy Use from Renewables,1668.6849920231755
+981,United States,USA,1991,Energy Use from Renewables,344.0204325136877
+982,Iceland,ISL,1991,Energy Use from Renewables,4412.774548589678
+983,Luxembourg,LUX,1991,Energy Use from Renewables,159.02127041335342
+984,Bahrain,BHR,1991,Energy Use from Renewables,0.0
+985,United Arab Emirates,ARE,1991,Energy Use from Renewables,0.0
+986,Qatar,QAT,1991,Energy Use from Renewables,0.0
+987,Palau,PLW,1991,Energy Use from Renewables,
+988,Czech Republic,CZE,1992,Energy Use from Renewables,249.1275689342443
+989,Netherlands,NLD,1992,Energy Use from Renewables,54.64970705527204
+990,Australia,AUS,1992,Energy Use from Renewables,372.7579497895214
+991,Belgium,BEL,1992,Energy Use from Renewables,60.20240063302169
+992,Norway,NOR,1992,Energy Use from Renewables,3166.938861181057
+993,Trinidad and Tobago,TTO,1992,Energy Use from Renewables,67.95931803861826
+994,Russian Federation,RUS,1992,Energy Use from Renewables,213.21848147143584
+995,Sweden,SWE,1992,Energy Use from Renewables,1784.3577895756503
+996,Finland,FIN,1992,Energy Use from Renewables,1351.888336814112
+997,Canada,CAN,1992,Energy Use from Renewables,1667.048390760906
+998,Brunei Darussalam,BRN,1992,Energy Use from Renewables,15.773999409592674
+999,United States,USA,1992,Energy Use from Renewables,365.6810092771486
+1000,Iceland,ISL,1992,Energy Use from Renewables,4237.024897124155
+1001,Luxembourg,LUX,1992,Energy Use from Renewables,186.35776343850344
+1002,Bahrain,BHR,1992,Energy Use from Renewables,0.0
+1003,United Arab Emirates,ARE,1992,Energy Use from Renewables,20.5142694557373
+1004,Qatar,QAT,1992,Energy Use from Renewables,0.0
+1005,Kuwait,KWT,1992,Energy Use from Renewables,
+1006,Palau,PLW,1992,Energy Use from Renewables,
+1007,Czech Republic,CZE,1993,Energy Use from Renewables,237.89894873736333
+1008,Netherlands,NLD,1993,Energy Use from Renewables,54.67426661666015
+1009,Belgium,BEL,1993,Energy Use from Renewables,46.8889028068181
+1010,Trinidad and Tobago,TTO,1993,Energy Use from Renewables,68.0051944764497
+1011,Russian Federation,RUS,1993,Energy Use from Renewables,204.32218524072212
+1012,Australia,AUS,1993,Energy Use from Renewables,443.5629182458456
+1013,Sweden,SWE,1993,Energy Use from Renewables,1834.1612723300916
+1014,Norway,NOR,1993,Energy Use from Renewables,3335.6840422949585
+1015,Finland,FIN,1993,Energy Use from Renewables,1460.6746608919807
+1016,Brunei Darussalam,BRN,1993,Energy Use from Renewables,0.0
+1017,United States,USA,1993,Energy Use from Renewables,330.08428648853476
+1018,Canada,CAN,1993,Energy Use from Renewables,1694.2168172945155
+1019,Iceland,ISL,1993,Energy Use from Renewables,4509.15884986947
+1020,Luxembourg,LUX,1993,Energy Use from Renewables,184.59093517514665
+1021,United Arab Emirates,ARE,1993,Energy Use from Renewables,16.268709402536846
+1022,Bahrain,BHR,1993,Energy Use from Renewables,0.0
+1023,Qatar,QAT,1993,Energy Use from Renewables,0.0
+1024,Kuwait,KWT,1993,Energy Use from Renewables,
+1025,Palau,PLW,1993,Energy Use from Renewables,
+1026,Czech Republic,CZE,1994,Energy Use from Renewables,234.14295295974958
+1027,Russian Federation,RUS,1994,Energy Use from Renewables,171.17364991845028
+1028,Netherlands,NLD,1994,Energy Use from Renewables,57.0557751657201
+1029,Trinidad and Tobago,TTO,1994,Energy Use from Renewables,63.821657778239256
+1030,Australia,AUS,1994,Energy Use from Renewables,420.41385979917624
+1031,Belgium,BEL,1994,Energy Use from Renewables,48.72800531378784
+1032,Norway,NOR,1994,Energy Use from Renewables,3210.3518884745918
+1033,Sweden,SWE,1994,Energy Use from Renewables,1774.7455084430007
+1034,Finland,FIN,1994,Energy Use from Renewables,1501.0187692053814
+1035,Brunei Darussalam,BRN,1994,Energy Use from Renewables,0.0
+1036,United States,USA,1994,Energy Use from Renewables,317.1898826262614
+1037,Canada,CAN,1994,Energy Use from Renewables,1726.140868220618
+1038,Iceland,ISL,1994,Energy Use from Renewables,4489.85082833042
+1039,Luxembourg,LUX,1994,Energy Use from Renewables,248.88895386008988
+1040,United Arab Emirates,ARE,1994,Energy Use from Renewables,13.643061075630632
+1041,Bahrain,BHR,1994,Energy Use from Renewables,0.0
+1042,Qatar,QAT,1994,Energy Use from Renewables,0.0
+1043,Kuwait,KWT,1994,Energy Use from Renewables,
+1044,Palau,PLW,1994,Energy Use from Renewables,
+1045,Czech Republic,CZE,1995,Energy Use from Renewables,213.16533766930948
+1046,Russian Federation,RUS,1995,Energy Use from Renewables,166.0790743666886
+1047,Netherlands,NLD,1995,Energy Use from Renewables,61.0491123919688
+1048,Trinidad and Tobago,TTO,1995,Energy Use from Renewables,58.111232636073346
+1049,Australia,AUS,1995,Energy Use from Renewables,421.5096350118454
+1050,Belgium,BEL,1995,Energy Use from Renewables,66.39317012665998
+1051,Norway,NOR,1995,Energy Use from Renewables,3237.389170493184
+1052,Finland,FIN,1995,Energy Use from Renewables,1543.7979238564135
+1053,Sweden,SWE,1995,Energy Use from Renewables,1933.8426011244042
+1054,Brunei Darussalam,BRN,1995,Energy Use from Renewables,0.0
+1055,Luxembourg,LUX,1995,Energy Use from Renewables,307.5162825248446
+1056,United States,USA,1995,Energy Use from Renewables,366.95810351584163
+1057,Canada,CAN,1995,Energy Use from Renewables,1749.4791255963019
+1058,Iceland,ISL,1995,Energy Use from Renewables,4594.394570423787
+1059,Kuwait,KWT,1995,Energy Use from Renewables,10.661437838756619
+1060,Bahrain,BHR,1995,Energy Use from Renewables,0.0
+1061,United Arab Emirates,ARE,1995,Energy Use from Renewables,12.908057871340441
+1062,Qatar,QAT,1995,Energy Use from Renewables,0.0
+1063,Palau,PLW,1995,Energy Use from Renewables,
+1064,Czech Republic,CZE,1996,Energy Use from Renewables,217.6793414928763
+1065,Russian Federation,RUS,1996,Energy Use from Renewables,157.1138398047229
+1066,Netherlands,NLD,1996,Energy Use from Renewables,64.55878471107523
+1067,Norway,NOR,1996,Energy Use from Renewables,3009.413218355575
+1068,Australia,AUS,1996,Energy Use from Renewables,478.19327121213064
+1069,Belgium,BEL,1996,Energy Use from Renewables,65.57435882499672
+1070,Trinidad and Tobago,TTO,1996,Energy Use from Renewables,57.84091301097626
+1071,Sweden,SWE,1996,Energy Use from Renewables,1826.52337172664
+1072,Finland,FIN,1996,Energy Use from Renewables,1631.0994680983356
+1073,Brunei Darussalam,BRN,1996,Energy Use from Renewables,0.0
+1074,Luxembourg,LUX,1996,Energy Use from Renewables,236.3763204171676
+1075,United States,USA,1996,Energy Use from Renewables,373.70501240310864
+1076,Canada,CAN,1996,Energy Use from Renewables,1737.874152765028
+1077,Iceland,ISL,1996,Energy Use from Renewables,4623.250492603769
+1078,Kuwait,KWT,1996,Energy Use from Renewables,6.215219453315214
+1079,Bahrain,BHR,1996,Energy Use from Renewables,0.0
+1080,United Arab Emirates,ARE,1996,Energy Use from Renewables,9.247703225252247
+1081,Qatar,QAT,1996,Energy Use from Renewables,0.0
+1082,Palau,PLW,1996,Energy Use from Renewables,
+1083,Russian Federation,RUS,1997,Energy Use from Renewables,152.44996409923348
+1084,Czech Republic,CZE,1997,Energy Use from Renewables,236.38256412504566
+1085,Netherlands,NLD,1997,Energy Use from Renewables,72.90042017942747
+1086,Trinidad and Tobago,TTO,1997,Energy Use from Renewables,51.125110747421196
+1087,Australia,AUS,1997,Energy Use from Renewables,496.652961193108
+1088,Norway,NOR,1997,Energy Use from Renewables,3221.5396601447064
+1089,Belgium,BEL,1997,Energy Use from Renewables,63.435730545189905
+1090,Sweden,SWE,1997,Energy Use from Renewables,2020.4039685546677
+1091,Finland,FIN,1997,Energy Use from Renewables,1809.54759990126
+1092,Luxembourg,LUX,1997,Energy Use from Renewables,325.0209634585379
+1093,Brunei Darussalam,BRN,1997,Energy Use from Renewables,0.0
+1094,United States,USA,1997,Energy Use from Renewables,353.4025283960846
+1095,Canada,CAN,1997,Energy Use from Renewables,1716.878194710541
+1096,Iceland,ISL,1997,Energy Use from Renewables,4711.122285686206
+1097,Kuwait,KWT,1997,Energy Use from Renewables,0.0
+1098,United Arab Emirates,ARE,1997,Energy Use from Renewables,8.825611424346647
+1099,Bahrain,BHR,1997,Energy Use from Renewables,0.0
+1100,Qatar,QAT,1997,Energy Use from Renewables,0.0
+1101,Palau,PLW,1997,Energy Use from Renewables,
+1102,Russian Federation,RUS,1998,Energy Use from Renewables,142.73804001957305
+1103,Czech Republic,CZE,1998,Energy Use from Renewables,242.10300018417476
+1104,Netherlands,NLD,1998,Energy Use from Renewables,76.05143174194852
+1105,Australia,AUS,1998,Energy Use from Renewables,477.34055258740557
+1106,Belgium,BEL,1998,Energy Use from Renewables,72.39039120257738
+1107,Norway,NOR,1998,Energy Use from Renewables,3383.4108716052788
+1108,Sweden,SWE,1998,Energy Use from Renewables,2057.3522938079177
+1109,Trinidad and Tobago,TTO,1998,Energy Use from Renewables,56.994954591205016
+1110,Finland,FIN,1998,Energy Use from Renewables,1927.2662818413387
+1111,Luxembourg,LUX,1998,Energy Use from Renewables,475.6026650209158
+1112,Brunei Darussalam,BRN,1998,Energy Use from Renewables,0.0
+1113,United States,USA,1998,Energy Use from Renewables,353.84281775449983
+1114,Canada,CAN,1998,Energy Use from Renewables,1710.8159477328954
+1115,Iceland,ISL,1998,Energy Use from Renewables,5170.090928811969
+1116,Kuwait,KWT,1998,Energy Use from Renewables,0.0
+1117,United Arab Emirates,ARE,1998,Energy Use from Renewables,8.133994797184668
+1118,Bahrain,BHR,1998,Energy Use from Renewables,0.0
+1119,Qatar,QAT,1998,Energy Use from Renewables,0.0
+1120,Palau,PLW,1998,Energy Use from Renewables,
+1121,Czech Republic,CZE,1999,Energy Use from Renewables,245.02338862024405
+1122,Russian Federation,RUS,1999,Energy Use from Renewables,158.05899133389264
+1123,Netherlands,NLD,1999,Energy Use from Renewables,78.24246663769385
+1124,Australia,AUS,1999,Energy Use from Renewables,477.287384969581
+1125,Belgium,BEL,1999,Energy Use from Renewables,78.6145351637005
+1126,Sweden,SWE,1999,Energy Use from Renewables,1969.7602902153324
+1127,Norway,NOR,1999,Energy Use from Renewables,3513.3853501042836
+1128,Finland,FIN,1999,Energy Use from Renewables,1900.0227531635323
+1129,Luxembourg,LUX,1999,Energy Use from Renewables,426.0751778509058
+1130,Brunei Darussalam,BRN,1999,Energy Use from Renewables,0.0
+1131,Trinidad and Tobago,TTO,1999,Energy Use from Renewables,63.53822264765051
+1132,United States,USA,1999,Energy Use from Renewables,452.39442163000604
+1133,Canada,CAN,1999,Energy Use from Renewables,1759.7427200080194
+1134,Kuwait,KWT,1999,Energy Use from Renewables,0.0
+1135,Iceland,ISL,1999,Energy Use from Renewables,6004.6849346298195
+1136,United Arab Emirates,ARE,1999,Energy Use from Renewables,7.788531054534119
+1137,Bahrain,BHR,1999,Energy Use from Renewables,0.0
+1138,Qatar,QAT,1999,Energy Use from Renewables,0.0
+1139,Palau,PLW,1999,Energy Use from Renewables,
+1140,Czech Republic,CZE,2000,Energy Use from Renewables,236.95328899951087
+1141,Russian Federation,RUS,2000,Energy Use from Renewables,147.69763292665087
+1142,Netherlands,NLD,2000,Energy Use from Renewables,82.01901472711931
+1143,Sweden,SWE,2000,Energy Use from Renewables,2144.5459321182825
+1144,Australia,AUS,2000,Energy Use from Renewables,475.45601938661423
+1145,Belgium,BEL,2000,Energy Use from Renewables,81.85419178552986
+1146,Norway,NOR,2000,Energy Use from Renewables,3506.4016493208783
+1147,Finland,FIN,2000,Energy Use from Renewables,1983.7810104646535
+1148,Brunei Darussalam,BRN,2000,Energy Use from Renewables,0.0
+1149,Luxembourg,LUX,2000,Energy Use from Renewables,522.5085719013056
+1150,Trinidad and Tobago,TTO,2000,Energy Use from Renewables,59.11346535994724
+1151,United States,USA,2000,Energy Use from Renewables,437.46352822376764
+1152,Canada,CAN,2000,Energy Use from Renewables,1821.4665201317214
+1153,Kuwait,KWT,2000,Energy Use from Renewables,0.0
+1154,United Arab Emirates,ARE,2000,Energy Use from Renewables,7.684249795384882
+1155,Iceland,ISL,2000,Energy Use from Renewables,6728.122526808455
+1156,Bahrain,BHR,2000,Energy Use from Renewables,0.0
+1157,Qatar,QAT,2000,Energy Use from Renewables,0.0
+1158,Palau,PLW,2000,Energy Use from Renewables,
+1159,Czech Republic,CZE,2001,Energy Use from Renewables,258.47637776117415
+1160,Russian Federation,RUS,2001,Energy Use from Renewables,155.27375910254236
+1161,Netherlands,NLD,2001,Energy Use from Renewables,85.33429288640839
+1162,Australia,AUS,2001,Energy Use from Renewables,455.9661435210577
+1163,Belgium,BEL,2001,Energy Use from Renewables,89.04877614491816
+1164,Sweden,SWE,2001,Energy Use from Renewables,2139.329917871111
+1165,Norway,NOR,2001,Energy Use from Renewables,3548.7696120401465
+1166,Finland,FIN,2001,Energy Use from Renewables,1875.0886841449983
+1167,Brunei Darussalam,BRN,2001,Energy Use from Renewables,0.0
+1168,United States,USA,2001,Energy Use from Renewables,366.24331517601246
+1169,Luxembourg,LUX,2001,Energy Use from Renewables,273.33279790261065
+1170,Canada,CAN,2001,Energy Use from Renewables,1734.306509785267
+1171,Trinidad and Tobago,TTO,2001,Energy Use from Renewables,60.995949146669155
+1172,Kuwait,KWT,2001,Energy Use from Renewables,0.0
+1173,Iceland,ISL,2001,Energy Use from Renewables,6578.049439226668
+1174,Bahrain,BHR,2001,Energy Use from Renewables,0.0
+1175,United Arab Emirates,ARE,2001,Energy Use from Renewables,7.875551168765488
+1176,Qatar,QAT,2001,Energy Use from Renewables,0.0
+1177,Palau,PLW,2001,Energy Use from Renewables,
+1178,Czech Republic,CZE,2002,Energy Use from Renewables,302.93263065784066
+1179,Russian Federation,RUS,2002,Energy Use from Renewables,148.30718042378876
+1180,Netherlands,NLD,2002,Energy Use from Renewables,93.38144131693667
+1181,Belgium,BEL,2002,Energy Use from Renewables,90.63417325201155
+1182,Norway,NOR,2002,Energy Use from Renewables,3272.587337910476
+1183,Australia,AUS,2002,Energy Use from Renewables,486.75877708905233
+1184,Sweden,SWE,2002,Energy Use from Renewables,2097.4511609058213
+1185,Brunei Darussalam,BRN,2002,Energy Use from Renewables,0.0
+1186,Finland,FIN,2002,Energy Use from Renewables,1986.378134967963
+1187,United States,USA,2002,Energy Use from Renewables,379.68062243742924
+1188,Canada,CAN,2002,Energy Use from Renewables,1740.0516793516376
+1189,Luxembourg,LUX,2002,Energy Use from Renewables,108.16291471549593
+1190,Trinidad and Tobago,TTO,2002,Energy Use from Renewables,64.43449217134692
+1191,Kuwait,KWT,2002,Energy Use from Renewables,0.0
+1192,Iceland,ISL,2002,Energy Use from Renewables,6681.871549527307
+1193,United Arab Emirates,ARE,2002,Energy Use from Renewables,7.622563977787384
+1194,Bahrain,BHR,2002,Energy Use from Renewables,0.0
+1195,Qatar,QAT,2002,Energy Use from Renewables,0.0
+1196,Palau,PLW,2002,Energy Use from Renewables,
+1197,Czech Republic,CZE,2003,Energy Use from Renewables,293.0162544796824
+1198,Russian Federation,RUS,2003,Energy Use from Renewables,146.30405157924994
+1199,Netherlands,NLD,2003,Energy Use from Renewables,95.6935017462143
+1200,Australia,AUS,2003,Energy Use from Renewables,398.2502372632967
+1201,Belgium,BEL,2003,Energy Use from Renewables,105.57882107706124
+1202,Sweden,SWE,2003,Energy Use from Renewables,1972.6696527807853
+1203,Norway,NOR,2003,Energy Use from Renewables,3337.6296899276413
+1204,Finland,FIN,2003,Energy Use from Renewables,2006.6555082534892
+1205,Brunei Darussalam,BRN,2003,Energy Use from Renewables,0.0
+1206,United States,USA,2003,Energy Use from Renewables,415.144378287384
+1207,Canada,CAN,2003,Energy Use from Renewables,1766.7464602397438
+1208,Luxembourg,LUX,2003,Energy Use from Renewables,109.20280070713751
+1209,Kuwait,KWT,2003,Energy Use from Renewables,0.0
+1210,Trinidad and Tobago,TTO,2003,Energy Use from Renewables,62.15171109127162
+1211,United Arab Emirates,ARE,2003,Energy Use from Renewables,7.007134231762924
+1212,Iceland,ISL,2003,Energy Use from Renewables,6640.653533141966
+1213,Bahrain,BHR,2003,Energy Use from Renewables,0.0
+1214,Qatar,QAT,2003,Energy Use from Renewables,0.0
+1215,Palau,PLW,2003,Energy Use from Renewables,
+1216,Czech Republic,CZE,2004,Energy Use from Renewables,318.1994019493488
+1217,Russian Federation,RUS,2004,Energy Use from Renewables,159.68767214426023
+1218,Netherlands,NLD,2004,Energy Use from Renewables,112.88123642787362
+1219,Belgium,BEL,2004,Energy Use from Renewables,113.09023667920822
+1220,Australia,AUS,2004,Energy Use from Renewables,373.99707283793583
+1221,Norway,NOR,2004,Energy Use from Renewables,3280.894991462831
+1222,Sweden,SWE,2004,Energy Use from Renewables,2094.8579333820267
+1223,Brunei Darussalam,BRN,2004,Energy Use from Renewables,0.0
+1224,Finland,FIN,2004,Energy Use from Renewables,2218.932473654692
+1225,United States,USA,2004,Energy Use from Renewables,431.72925167663414
+1226,Canada,CAN,2004,Energy Use from Renewables,1824.63091646861
+1227,Luxembourg,LUX,2004,Energy Use from Renewables,127.1716075605254
+1228,United Arab Emirates,ARE,2004,Energy Use from Renewables,10.327950273343065
+1229,Iceland,ISL,2004,Energy Use from Renewables,6504.650080162129
+1230,Kuwait,KWT,2004,Energy Use from Renewables,0.0
+1231,Trinidad and Tobago,TTO,2004,Energy Use from Renewables,65.55307552965793
+1232,Bahrain,BHR,2004,Energy Use from Renewables,0.0
+1233,Qatar,QAT,2004,Energy Use from Renewables,0.0
+1234,Palau,PLW,2004,Energy Use from Renewables,
+1235,Czech Republic,CZE,2005,Energy Use from Renewables,331.60177321853496
+1236,Russian Federation,RUS,2005,Energy Use from Renewables,164.11750779738335
+1237,Netherlands,NLD,2005,Energy Use from Renewables,136.79623893088797
+1238,Belgium,BEL,2005,Energy Use from Renewables,136.6014851998948
+1239,Australia,AUS,2005,Energy Use from Renewables,373.4782132573846
+1240,Sweden,SWE,2005,Energy Use from Renewables,2296.889756305511
+1241,Norway,NOR,2005,Energy Use from Renewables,3399.701247960273
+1242,Brunei Darussalam,BRN,2005,Energy Use from Renewables,0.0
+1243,Finland,FIN,2005,Energy Use from Renewables,2068.651224916971
+1244,United States,USA,2005,Energy Use from Renewables,458.32972998694333
+1245,Canada,CAN,2005,Energy Use from Renewables,1852.1990540500071
+1246,Luxembourg,LUX,2005,Energy Use from Renewables,176.53563641639522
+1247,United Arab Emirates,ARE,2005,Energy Use from Renewables,10.202605552159627
+1248,Iceland,ISL,2005,Energy Use from Renewables,6574.364746255728
+1249,Kuwait,KWT,2005,Energy Use from Renewables,0.0
+1250,Bahrain,BHR,2005,Energy Use from Renewables,0.0
+1251,Trinidad and Tobago,TTO,2005,Energy Use from Renewables,67.6223392453509
+1252,Qatar,QAT,2005,Energy Use from Renewables,0.0
+1253,Palau,PLW,2005,Energy Use from Renewables,
+1254,Czech Republic,CZE,2006,Energy Use from Renewables,353.98985981996697
+1255,Russian Federation,RUS,2006,Energy Use from Renewables,163.30134480015656
+1256,Netherlands,NLD,2006,Energy Use from Renewables,153.51082730088075
+1257,Belgium,BEL,2006,Energy Use from Renewables,154.39368841446122
+1258,Sweden,SWE,2006,Energy Use from Renewables,2265.4457486571837
+1259,Australia,AUS,2006,Energy Use from Renewables,391.29564759091613
+1260,Norway,NOR,2006,Energy Use from Renewables,3328.506469737171
+1261,Finland,FIN,2006,Energy Use from Renewables,2222.5975513908284
+1262,United States,USA,2006,Energy Use from Renewables,492.39573242404634
+1263,Canada,CAN,2006,Energy Use from Renewables,1805.7843226401812
+1264,Brunei Darussalam,BRN,2006,Energy Use from Renewables,0.0
+1265,United Arab Emirates,ARE,2006,Energy Use from Renewables,10.232927785795535
+1266,Luxembourg,LUX,2006,Energy Use from Renewables,190.60033935396555
+1267,Kuwait,KWT,2006,Energy Use from Renewables,0.0
+1268,Bahrain,BHR,2006,Energy Use from Renewables,0.0
+1269,Iceland,ISL,2006,Energy Use from Renewables,8151.674262100446
+1270,Trinidad and Tobago,TTO,2006,Energy Use from Renewables,75.30686547983173
+1271,Qatar,QAT,2006,Energy Use from Renewables,0.0
+1272,Palau,PLW,2006,Energy Use from Renewables,
+1273,Czech Republic,CZE,2007,Energy Use from Renewables,371.91133537359474
+1274,Russian Federation,RUS,2007,Energy Use from Renewables,172.77595214974414
+1275,Netherlands,NLD,2007,Energy Use from Renewables,180.79963110567078
+1276,Belgium,BEL,2007,Energy Use from Renewables,178.14249095571742
+1277,Sweden,SWE,2007,Energy Use from Renewables,2334.073738488471
+1278,Norway,NOR,2007,Energy Use from Renewables,3364.1388280695032
+1279,Australia,AUS,2007,Energy Use from Renewables,407.967498474669
+1280,Finland,FIN,2007,Energy Use from Renewables,2218.3100613007205
+1281,United States,USA,2007,Energy Use from Renewables,489.09031345191
+1282,United Arab Emirates,ARE,2007,Energy Use from Renewables,9.168310244732693
+1283,Canada,CAN,2007,Energy Use from Renewables,1793.9274217946743
+1284,Brunei Darussalam,BRN,2007,Energy Use from Renewables,0.0
+1285,Luxembourg,LUX,2007,Energy Use from Renewables,319.5365495032247
+1286,Kuwait,KWT,2007,Energy Use from Renewables,0.0
+1287,Bahrain,BHR,2007,Energy Use from Renewables,0.0
+1288,Trinidad and Tobago,TTO,2007,Energy Use from Renewables,65.08973889123487
+1289,Iceland,ISL,2007,Energy Use from Renewables,9843.050170596955
+1290,Qatar,QAT,2007,Energy Use from Renewables,0.0
+1291,Palau,PLW,2007,Energy Use from Renewables,
+1292,Czech Republic,CZE,2008,Energy Use from Renewables,389.46533019037963
+1293,Russian Federation,RUS,2008,Energy Use from Renewables,159.50077287307917
+1294,Netherlands,NLD,2008,Energy Use from Renewables,191.0990093184907
+1295,Sweden,SWE,2008,Energy Use from Renewables,2375.7092764027825
+1296,Belgium,BEL,2008,Energy Use from Renewables,213.02111122418432
+1297,Australia,AUS,2008,Energy Use from Renewables,405.0008038914811
+1298,Finland,FIN,2008,Energy Use from Renewables,2317.1774957318507
+1299,Norway,NOR,2008,Energy Use from Renewables,3949.6055018198513
+1300,United States,USA,2008,Energy Use from Renewables,512.6041455615244
+1301,Canada,CAN,2008,Energy Use from Renewables,1795.3508126224106
+1302,United Arab Emirates,ARE,2008,Energy Use from Renewables,9.270805039504728
+1303,Luxembourg,LUX,2008,Energy Use from Renewables,341.0444580074998
+1304,Brunei Darussalam,BRN,2008,Energy Use from Renewables,0.0
+1305,Kuwait,KWT,2008,Energy Use from Renewables,0.0
+1306,Bahrain,BHR,2008,Energy Use from Renewables,0.0
+1307,Trinidad and Tobago,TTO,2008,Energy Use from Renewables,65.28133788718509
+1308,Qatar,QAT,2008,Energy Use from Renewables,0.0
+1309,Iceland,ISL,2008,Energy Use from Renewables,12013.540524222062
+1310,Palau,PLW,2008,Energy Use from Renewables,
+1311,Czech Republic,CZE,2009,Energy Use from Renewables,413.6015735754005
+1312,Russian Federation,RUS,2009,Energy Use from Renewables,163.07193467979135
+1313,Netherlands,NLD,2009,Energy Use from Renewables,206.90852214342436
+1314,Sweden,SWE,2009,Energy Use from Renewables,2282.5691223820945
+1315,Belgium,BEL,2009,Energy Use from Renewables,250.85460577701792
+1316,Australia,AUS,2009,Energy Use from Renewables,419.10797779110237
+1317,Finland,FIN,2009,Energy Use from Renewables,2044.1743848363012
+1318,Norway,NOR,2009,Energy Use from Renewables,3680.0096289603034
+1319,United States,USA,2009,Energy Use from Renewables,518.9841081081926
+1320,United Arab Emirates,ARE,2009,Energy Use from Renewables,8.155429677378718
+1321,Canada,CAN,2009,Energy Use from Renewables,1754.3522557015335
+1322,Brunei Darussalam,BRN,2009,Energy Use from Renewables,0.0
+1323,Luxembourg,LUX,2009,Energy Use from Renewables,296.71062827654134
+1324,Bahrain,BHR,2009,Energy Use from Renewables,0.0
+1325,Kuwait,KWT,2009,Energy Use from Renewables,0.0
+1326,Trinidad and Tobago,TTO,2009,Energy Use from Renewables,69.14900977956995
+1327,Qatar,QAT,2009,Energy Use from Renewables,0.0
+1328,Iceland,ISL,2009,Energy Use from Renewables,12534.897926969206
+1329,Palau,PLW,2009,Energy Use from Renewables,
+1330,Czech Republic,CZE,2010,Energy Use from Renewables,464.14292412156504
+1331,Russian Federation,RUS,2010,Energy Use from Renewables,161.0523433070155
+1332,Netherlands,NLD,2010,Energy Use from Renewables,193.49495510251532
+1333,Sweden,SWE,2010,Energy Use from Renewables,2483.8401511317943
+1334,Belgium,BEL,2010,Energy Use from Renewables,322.66317884665267
+1335,Australia,AUS,2010,Energy Use from Renewables,472.91521605410804
+1336,Finland,FIN,2010,Energy Use from Renewables,2293.6519724496393
+1337,Norway,NOR,2010,Energy Use from Renewables,3909.5971684370834
+1338,United States,USA,2010,Energy Use from Renewables,532.5021897783813
+1339,United Arab Emirates,ARE,2010,Energy Use from Renewables,7.893440004656747
+1340,Canada,CAN,2010,Energy Use from Renewables,1703.8333881918302
+1341,Luxembourg,LUX,2010,Energy Use from Renewables,306.3332260823241
+1342,Brunei Darussalam,BRN,2010,Energy Use from Renewables,0.0
+1343,Bahrain,BHR,2010,Energy Use from Renewables,0.0
+1344,Kuwait,KWT,2010,Energy Use from Renewables,0.0
+1345,Qatar,QAT,2010,Energy Use from Renewables,0.0
+1346,Trinidad and Tobago,TTO,2010,Energy Use from Renewables,56.98996852500901
+1347,Iceland,ISL,2010,Energy Use from Renewables,12838.582482764716
+1348,Palau,PLW,2010,Energy Use from Renewables,
+1349,Czech Republic,CZE,2011,Energy Use from Renewables,495.6923250508371
+1350,Netherlands,NLD,2011,Energy Use from Renewables,217.6189628128337
+1351,Russian Federation,RUS,2011,Energy Use from Renewables,162.9500415205621
+1352,Belgium,BEL,2011,Energy Use from Renewables,337.62564131110787
+1353,Sweden,SWE,2011,Energy Use from Renewables,2436.5900107755733
+1354,Norway,NOR,2011,Energy Use from Renewables,3204.1922362830496
+1355,Australia,AUS,2011,Energy Use from Renewables,477.922867737065
+1356,Finland,FIN,2011,Energy Use from Renewables,2305.63516778486
+1357,United States,USA,2011,Energy Use from Renewables,587.9994373540364
+1358,United Arab Emirates,ARE,2011,Energy Use from Renewables,7.85253878288301
+1359,Canada,CAN,2011,Energy Use from Renewables,1728.2079711682386
+1360,Luxembourg,LUX,2011,Energy Use from Renewables,303.0899846867422
+1361,Brunei Darussalam,BRN,2011,Energy Use from Renewables,1.554320565454868
+1362,Bahrain,BHR,2011,Energy Use from Renewables,0.0
+1363,Kuwait,KWT,2011,Energy Use from Renewables,0.0
+1364,Trinidad and Tobago,TTO,2011,Energy Use from Renewables,55.60191816053139
+1365,Qatar,QAT,2011,Energy Use from Renewables,0.0
+1366,Iceland,ISL,2011,Energy Use from Renewables,13881.375138114798
+1367,Palau,PLW,2011,Energy Use from Renewables,
+1368,Czech Republic,CZE,2012,Energy Use from Renewables,519.0972205052929
+1369,Netherlands,NLD,2012,Energy Use from Renewables,227.58287582990988
+1370,Belgium,BEL,2012,Energy Use from Renewables,375.96142831084217
+1371,Russian Federation,RUS,2012,Energy Use from Renewables,167.6333111326855
+1372,Sweden,SWE,2012,Energy Use from Renewables,2599.5322171952726
+1373,Australia,AUS,2012,Energy Use from Renewables,462.4422075185809
+1374,Norway,NOR,2012,Energy Use from Renewables,3425.7508359831145
+1375,Finland,FIN,2012,Energy Use from Renewables,2435.7146575988554
+1376,United States,USA,2012,Energy Use from Renewables,599.7974011827822
+1377,United Arab Emirates,ARE,2012,Energy Use from Renewables,7.615853859647291
+1378,Luxembourg,LUX,2012,Energy Use from Renewables,320.4554354719393
+1379,Canada,CAN,2012,Energy Use from Renewables,1714.435565947887
+1380,Brunei Darussalam,BRN,2012,Energy Use from Renewables,1.420679373958237
+1381,Bahrain,BHR,2012,Energy Use from Renewables,0.0
+1382,Kuwait,KWT,2012,Energy Use from Renewables,0.0
+1383,Trinidad and Tobago,TTO,2012,Energy Use from Renewables,52.89872110085581
+1384,Qatar,QAT,2012,Energy Use from Renewables,0.0
+1385,Iceland,ISL,2012,Energy Use from Renewables,13635.696525671236
+1386,Palau,PLW,2012,Energy Use from Renewables,
+1387,Czech Republic,CZE,2013,Energy Use from Renewables,556.851167536735
+1388,Netherlands,NLD,2013,Energy Use from Renewables,227.04203742607518
+1389,Belgium,BEL,2013,Energy Use from Renewables,404.4397216991322
+1390,Russian Federation,RUS,2013,Energy Use from Renewables,183.17589891577114
+1391,Sweden,SWE,2013,Energy Use from Renewables,2476.511908525534
+1392,Australia,AUS,2013,Energy Use from Renewables,503.9232246138938
+1393,Finland,FIN,2013,Energy Use from Renewables,2355.9829142183125
+1394,Norway,NOR,2013,Energy Use from Renewables,3685.3836487656645
+1395,United States,USA,2013,Energy Use from Renewables,627.2562155675578
+1396,Luxembourg,LUX,2013,Energy Use from Renewables,418.07970777796294
+1397,Brunei Darussalam,BRN,2013,Energy Use from Renewables,1.0155220656380515
+1398,United Arab Emirates,ARE,2013,Energy Use from Renewables,7.825381619202343
+1399,Canada,CAN,2013,Energy Use from Renewables,1734.439747258935
+1400,Kuwait,KWT,2013,Energy Use from Renewables,0.1585039992490447
+1401,Bahrain,BHR,2013,Energy Use from Renewables,0.0
+1402,Trinidad and Tobago,TTO,2013,Energy Use from Renewables,52.61613978637974
+1403,Qatar,QAT,2013,Energy Use from Renewables,0.0
+1404,Iceland,ISL,2013,Energy Use from Renewables,13871.88306102476
+1405,Palau,PLW,2013,Energy Use from Renewables,
+1406,Czech Republic,CZE,2014,Energy Use from Renewables,581.8171910208683
+1407,Netherlands,NLD,2014,Energy Use from Renewables,239.05007765584597
+1408,Belgium,BEL,2014,Energy Use from Renewables,429.6157569026951
+1409,Russian Federation,RUS,2014,Energy Use from Renewables,162.92211391442876
+1410,Sweden,SWE,2014,Energy Use from Renewables,2460.5262378865045
+1411,Australia,AUS,2014,Energy Use from Renewables,497.02697083884647
+1412,Norway,NOR,2014,Energy Use from Renewables,3185.0857861755767
+1413,Finland,FIN,2014,Energy Use from Renewables,2562.9541416215457
+1414,Luxembourg,LUX,2014,Energy Use from Renewables,469.72508391822754
+1415,United States,USA,2014,Energy Use from Renewables,641.809867373556
+1416,United Arab Emirates,ARE,2014,Energy Use from Renewables,10.53183912594711
+1417,Canada,CAN,2014,Energy Use from Renewables,1770.4464616164664
+1418,Brunei Darussalam,BRN,2014,Energy Use from Renewables,1.2142058269547702
+1419,Kuwait,KWT,2014,Energy Use from Renewables,0.27536671801797735
+1420,Bahrain,BHR,2014,Energy Use from Renewables,0.0
+1421,Trinidad and Tobago,TTO,2014,Energy Use from Renewables,49.5399499392231
+1422,Iceland,ISL,2014,Energy Use from Renewables,13692.466656515415
+1423,Qatar,QAT,2014,Energy Use from Renewables,0.0
+1424,Palau,PLW,2014,Energy Use from Renewables,
