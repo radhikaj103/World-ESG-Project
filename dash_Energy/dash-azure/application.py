@@ -46,7 +46,10 @@ income_fig.update_layout(
 
 app.layout = html.Div([
     html.H1("Energy Use Dashboard"),
-    html.H2("Top 20 Countries with the Highest Average Energy Use"),
+    html.P("Displays net and per capita energy usage from fossil fuel and reneweable sources in the highest energy users in the World."),
+    html.P("The time-series plots show the yearly variation in the selected energy indicator from the drop-down menu and the depletion of natural resources (% of GNI) for the selected country on hover from the barplot."),
+    html.H3("Top 20 Countries with the Highest Average Energy Use"),
+    
     html.Div([
 
         html.Div([
